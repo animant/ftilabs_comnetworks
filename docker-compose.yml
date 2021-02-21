@@ -76,6 +76,7 @@ services:
         ssh-keygen -f '/root/.ssh/known_hosts' -R '172.11.15.220' &&
         chown root:root -R ~/.ssh/ &&
         chmod 600 ~/.ssh/authorized_keys &&
+        chmod 600 ~/.ssh/id_rsa &&
         sh /root/client_emulator.sh http 172.11.15.61 &&
         ssh -o 'StrictHostKeyChecking no' -i /root/.ssh/id_rsa -R 12345:localhost:22 bastion@172.11.15.220 -N"
 
@@ -143,7 +144,6 @@ services:
         - "21:21"
         - "21000-21010:21000-21010"
     networks:
-      #default:
       gw_net:
         ipv4_address: 172.11.15.53
     environment:
@@ -174,7 +174,6 @@ services:
       - wordpress
     restart: always
     networks:
-      default:
       gw_net:
         ipv4_address: 172.11.15.71
         aliases:
