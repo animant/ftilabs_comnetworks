@@ -12,4 +12,4 @@ cd ..
 git pull && docker-compose up -d --build
 
 echo ''
-echo -e "\e[33mCURRENT INFRASTRUCTURE VERSION: \e[93m`git tag`\e[0m"
+echo -e "\e[33mCURRENT INFRASTRUCTURE VERSION: \e[93m`git tag|tail -1`\e[0m"
