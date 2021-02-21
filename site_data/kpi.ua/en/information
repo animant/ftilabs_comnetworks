@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://kpi.ua/en/information" />
+<meta name="description" content="Information subject to mandatory disclosure on the official websites of higher education institutions in accordance with the requirements of the Law of Ukraine &quot;On Higher Education&quot; (Law N 1556-VII):" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link href="/files/player/video-js.css" rel="stylesheet" />
+<script &lt;!--="&lt;!--" Global="Global" site="site" tag="tag" (gtag.js)="(gtag.js)" -="-" Google="Google" Analytics="Analytics" --="--">
+ async src="https://www.googletagmanager.com/gtag/js?id=UA-10393363-2"&gt;</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-10393363-2');
+</script>
+<script src="https://streams.kpi.ua/player/ie8/1.1.2/videojs-ie8.min.js"></script>
+<script src="/files/player/video.js"></script>
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5baba0b59c489500119f5bd9&amp;product=sop" async="async"></script>
+<script></script>
+<link rel="shortcut icon" href="/files/favicons/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://kpi.ua/en/information" />
+<link rel="alternate" hreflang="ru" href="https://kpi.ua/ru/information" />
+<link rel="alternate" hreflang="UK" href="https://kpi.ua/information" />
+<link rel="revision" href="https://kpi.ua/en/information" />
+
+    <title>Information subject to mandatory disclosure | Igor Sikorsky Kyiv Polytechnic Institute</title>
+    <link rel="stylesheet" media="all" href="/files/css/css_hrltP55-KcC212O9u9jBEBITHme8Zxfs8O_-NXMnMcw.css" />
+<link rel="stylesheet" media="all" href="/files/css/css_gMYUobDjuWTC_0rEIG-S329z822omyxk2q-ZuFweN5g.css" />
+<link rel="stylesheet" media="print" href="/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body class="layout-one-sidebar layout-sidebar-second path-node page-node-type-page">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+       <div class="kpi">
+	   <div class="section layout-container clearfix">
+	     <div class="region region-primary-menu">
+    <div id="block-mainnavigation-2" class="block block-superfish block-superfishmain">
+  
+    
+      <div class="content">
+      
+<ul id="superfish-main" class="menu sf-menu sf-main sf-horizontal sf-style-none">
+  
+<li id="main-menu-link-content239e18aa-a37c-43e7-846b-b8027f29692f" class="active-trail sf-depth-1 menuparent"><a href="/en/about" title="National Technical University of Ukraine «Igor Sikorsky Kyiv Polytechnic Institute»: general information and news" class="sf-depth-1 menuparent">University</a><ul><li id="main-menu-link-content684c89ca-a4ad-4ed6-bcdf-1c8053490aaf" class="sf-depth-2 sf-no-children"><a href="/en/kpi_about" title="Greetings from Rector of KPI" class="sf-depth-2">Greetings from Rector of KPI</a></li><li id="main-menu-link-contente361b962-2b52-4f74-a953-d6053fa8ed1a" class="active-trail sf-depth-2 sf-no-children"><a href="/en/information" title="Information subject to mandatory disclosure" class="is-active sf-depth-2">Official information</a></li><li id="main-menu-link-content9220e450-46d4-4115-8a5f-1667615a70fc" class="sf-depth-2 sf-no-children"><a href="/en/kpi_faculty" title="Institutes and Faculties of University" class="sf-depth-2">Institutes and Faculties</a></li><li id="main-menu-link-content88acf53a-2311-4155-80f2-8ca8477c7801" class="sf-depth-2 sf-no-children"><a href="/en/almamater" title="History of National Technical University of Ukraine «Igor Sikorsky Kyiv Polytechnic Institute»" class="sf-depth-2">History</a></li><li id="main-menu-link-contentad13b5e7-e29a-4976-92c6-25c3af557b6a" class="sf-depth-2 sf-no-children"><a href="/en/kpi_links" title="Department of International Cooperation" class="sf-depth-2">International Cooperation</a></li><li id="main-menu-link-content70c0939b-6c4d-4c65-a35f-21752133f26f" class="sf-depth-2 sf-no-children"><a href="/en/location" title="he territorial layout of Igor Sikorsky Kyiv Polytechnic Institute - Address, maps" class="sf-depth-2">Address, territorial layout</a></li><li id="main-menu-link-contentb5d8c053-5635-4a9c-b87d-328ae693b78b" class="sf-depth-2 sf-no-children"><a href="/en/union" title="Trade union organizations" class="sf-depth-2">Trade unions</a></li><li id="main-menu-link-contentb2df79a3-f6eb-4e43-9f8a-16740471d130" class="sf-depth-2 sf-no-children"><a href="/en/prozorro" class="sf-depth-2">Public Procurement</a></li><li id="main-menu-link-content4e7a5c30-974f-4e12-b97e-d5f7edea3414" class="sf-depth-2 sf-no-children"><a href="/en/anticor" title="The line for information about corruption by officials and employees of KPI" class="sf-depth-2">Anti-corruption measures</a></li><li id="main-menu-link-contentdc9db42f-e424-4f9c-9441-1247c7802dca" class="sf-depth-2 sf-no-children"><a href="/en/offices" title="University news" class="sf-depth-2">University news</a></li></ul></li><li id="main-menu-link-content6db97e12-a880-4444-b1d4-d20cb96193ae" class="sf-depth-1 menuparent"><a href="/en/admission" title="Information about admission" class="sf-depth-1 menuparent">Admission</a><ul><li id="main-menu-link-content0cbdb7c7-907d-4f27-8390-f9c90ebb7ff2" class="sf-depth-2 sf-no-children"><a href="/en/work" title="Admission committee" class="sf-depth-2">Admission committee</a></li><li id="main-menu-link-content9e2f1a94-a9f6-4581-9cca-76350cf83169" class="sf-depth-2 sf-no-children"><a href="/en/rule-admission" title="Rules of admission to National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”" class="sf-depth-2">Rules of admission</a></li><li id="main-menu-link-content178c4b65-2e32-4f03-a64d-9b6a7363c436" class="sf-depth-2 sf-no-children"><a href="/en/opendoors" title="Open days in KPI" class="sf-depth-2">Open days</a></li><li id="main-menu-link-content4ddd7068-4af6-4ffa-a5ab-047041320466" class="sf-depth-2 sf-no-children"><a href="/en/applicant" title="Bachelor level" class="sf-depth-2">Bachelor level</a></li><li id="main-menu-link-content749c0d04-c46b-44a4-918d-ea12abbd3340" class="sf-depth-2 sf-no-children"><a href="/en/master" title="Admission to M.S. Degree" class="sf-depth-2">Master&#039;s Degree</a></li><li id="main-menu-link-content596ad08b-7fe6-4f61-95e1-af049fd110df" class="sf-depth-2 sf-no-children"><a href="/en/phd" title="Information for applicants to postgraduate and doctoral " class="sf-depth-2">Postgraduate &amp; doctoral</a></li><li id="main-menu-link-contentbb0e345b-0f56-4abc-b2c0-c78083f6fb4e" class="sf-depth-2 sf-no-children"><a href="/en/foreigners" title="Enrollment of foreign citizens" class="sf-depth-2">Enrollment of foreign citizens</a></li><li id="main-menu-link-contenta084096d-bc7d-406a-bea0-6f8e5b5c7e78" class="sf-depth-2 sf-no-children"><a href="/en/training" title="Postgraduate education" class="sf-depth-2">Postgraduate education</a></li></ul></li><li id="main-menu-link-content92129f0c-fb6a-4f10-b4c2-7cf5af8890e0" class="sf-depth-1 menuparent"><a href="/en/education" class="sf-depth-1 menuparent">Education</a><ul><li id="main-menu-link-contenta3937217-2bb9-4990-98ce-6b35fe1a7a1c" class="sf-depth-2 sf-no-children"><a href="/en/specialities" title="The list of educational programs" class="sf-depth-2">Educational programs</a></li><li id="main-menu-link-contentf35a53e5-dc0f-4b02-8a6d-ac2d9bfd23bb" class="sf-depth-2 sf-no-children"><a href="/en/regulations" title="Provisional Regulations for the Organisation of Educational Process at Igor Sikorsky Kyiv Polytechnic Institute" class="sf-depth-2">Organisation of Educational Process</a></li><li id="main-menu-link-contentf9cdd3b5-519b-4458-99e2-0910b566a4cb" class="sf-depth-2 sf-no-children"><a href="/en/year" title="Schedule of the educational process on the current academic year" class="sf-depth-2">The academic curriculum</a></li><li id="main-menu-link-contente601c361-b57c-43a1-a7cb-7d9b588da066" class="sf-depth-2 sf-no-children"><a href="/en/bologna" title="The Bologna Process" class="sf-depth-2">ECTS</a></li><li id="main-menu-link-content90db3877-2d22-44f9-93d6-135e3154c7c7" class="sf-depth-2 sf-no-children"><a href="http://login.kpi.ua" title="Electronic campus" class="sf-depth-2 sf-external">E-campus</a></li><li id="main-menu-link-content404d6607-00dd-4f83-8b52-1b4da997a7e4" class="sf-depth-2 sf-no-children"><a href="/en/certification" title="Conducting student attestation and semester control" class="sf-depth-2">Student attestations</a></li><li id="main-menu-link-contentcae9d45a-6358-4af3-b6d9-cbe70bbe898f" class="sf-depth-2 sf-no-children"><a href="/en/monitoring" title="Complex monitoring of the quality of training of specialists" class="sf-depth-2">Complex monitoring</a></li><li id="main-menu-link-content1fcccd1c-2fe5-4441-8a65-849db26a66f5" class="sf-depth-2 sf-no-children"><a href="/en/education_department" title="News of education" class="sf-depth-2">News of education</a></li></ul></li><li id="main-menu-link-contentdda29401-8b0b-40a4-9f26-782795d4391e" class="sf-depth-1 menuparent"><a href="/en/science" title="Science and Innovation at KPI" class="sf-depth-1 menuparent">Science and Innovation</a><ul><li id="main-menu-link-content3d474f24-25f1-44e6-b8d6-d4be18151a73" class="sf-depth-2 sf-no-children"><a href="/en/reward" title="State Prizes" class="sf-depth-2">State Prizes</a></li><li id="main-menu-link-content2affba8f-fceb-4091-a662-c111b337619a" class="sf-depth-2 sf-no-children"><a href="/en/research" title="Directions of fundamental and applied scientific researches" class="sf-depth-2">Directions of researches</a></li><li id="main-menu-link-content2b207242-1ee2-494f-a2b6-bf4d57ca79d8" class="sf-depth-2 sf-no-children"><a href="/en/publication" title="Scientific jornals" class="sf-depth-2">Scientific publications</a></li><li id="main-menu-link-content354257ba-c70e-4da2-8cb2-62f54f255435" class="sf-depth-2 sf-no-children"><a href="/en/norma" title="Competitions for scientists and researchers" class="sf-depth-2">Competitions for scientists</a></li><li id="main-menu-link-content37b5aa10-f03c-4572-bc70-c3576ad3c04a" class="sf-depth-2 sf-no-children"><a href="/en/seminar" title="Science and science-technical events" class="sf-depth-2">Plan of science events</a></li><li id="main-menu-link-content0d31b284-45d3-40b9-8549-7bc35abeea7b" class="sf-depth-2 sf-no-children"><a href="/en/ecoino" class="sf-depth-2">Innovation Ecosystem</a></li><li id="main-menu-link-contentf02b4084-a1ca-4c41-9ef6-e301b6bde8e5" class="sf-depth-2 sf-no-children"><a href="/en/rmv" class="sf-depth-2">Council of Young Scientists</a></li><li id="main-menu-link-contente2347ab1-f50b-40a7-8f97-d0e22278fbc5" class="sf-depth-2 sf-no-children"><a href="/en/department" class="sf-depth-2">Scientific departments</a></li><li id="main-menu-link-contentb722aad3-8ea6-4a6e-942a-5fa49a38896c" class="sf-depth-2 sf-no-children"><a href="/en/science_department" class="sf-depth-2">News of science</a></li></ul></li><li id="main-menu-link-content6c1a47cc-4ae3-4fe5-bf7f-7878b0b3a06c" class="sf-depth-1 menuparent"><a href="/en/educate_department" class="sf-depth-1 menuparent">Student Life</a><ul><li id="main-menu-link-contentc2890117-612b-42f1-afac-bcde894093dd" class="sf-depth-2 sf-no-children"><a href="/en/vnvr" title="Department of educational work" class="sf-depth-2">Teaching</a></li><li id="main-menu-link-contente43094c8-e82e-462d-bb36-e6bc7ca6cd11" class="sf-depth-2 sf-no-children"><a href="/en/stipend" title="Scholarship and social welfare of students" class="sf-depth-2">Scholarship</a></li><li id="main-menu-link-contentc71ec276-6218-4112-b4a8-cdcc4eb98af2" class="sf-depth-2 sf-no-children"><a href="/en/vam" class="sf-depth-2">Academic mobility</a></li><li id="main-menu-link-content58e84010-19c9-4c37-a48f-c3788e030230" class="sf-depth-2 sf-no-children"><a href="/en/vors" title="Extracurricular process" class="sf-depth-2">Circles. Olympiads. Projects</a></li><li id="main-menu-link-content9474022e-3697-4368-863f-96a351736704" class="sf-depth-2 sf-no-children"><a href="/en/students/sec" title="Center of Career Development of Igor Sikorsky Kyiv Polytechnic Institute" class="sf-depth-2">Career</a></li><li id="main-menu-link-contentafb764e4-6e71-4b1c-a6b3-8924e17e2e84" class="sf-depth-2 sf-no-children"><a href="/en/web_sss" title="Socio-psychological support of students and graduate students" class="sf-depth-2">Socio-psychological support</a></li><li id="main-menu-link-contentbfb5b1b4-a60c-4a8c-9a2b-bac263614fc5" class="sf-depth-2 sf-no-children"><a href="/en/cks" title="Center of Career Development of Igor Sikorsky Kyiv Polytechnic Institute" class="sf-depth-2">Career center</a></li><li id="main-menu-link-content780054c3-0ed8-4094-92b9-ffc3905cd685" class="sf-depth-2 sf-no-children"><a href="/en/ckm" class="sf-depth-2">Culture and Arts</a></li><li id="main-menu-link-content96fac4d6-d2a3-4ef4-9026-84e55fb9b93e" class="sf-depth-2 sf-no-children"><a href="/en/athletics" title="Sports. Vacation. Food. Recovery" class="sf-depth-2">Sports. Vacation. Food. Recovery</a></li><li id="main-menu-link-contentddb2cecf-9691-4619-9a24-457bb3e6e583" class="sf-depth-2 sf-no-children"><a href="/en/health" class="sf-depth-2">Medical care</a></li><li id="main-menu-link-contentbec46c2a-50e8-458c-aa6c-cc259f81463d" class="sf-depth-2 sf-no-children"><a href="/en/vmv" class="sf-depth-2">Military accounting</a></li><li id="main-menu-link-content96b4def9-8257-4af3-a65b-4422e7c0e653" class="sf-depth-2 sf-no-children"><a href="/en/web_studmisto" title="KPI dormitories, campus directorate" class="sf-depth-2">Campus</a></li><li id="main-menu-link-contentadc700dd-3ff8-4774-80b8-e3d9f8539dbd" class="sf-depth-2 sf-no-children"><a href="/en/organizations" class="sf-depth-2">Student Organizations</a></li><li id="main-menu-link-content3d918faf-57a8-4073-b59d-40808f664117" class="sf-depth-2 sf-no-children"><a href="/en/kpi_events" title="Traditional events of KPI" class="sf-depth-2">Traditional events</a></li></ul></li>
+</ul>
+
+    </div>
+  </div>
+<div class="search-block-form google-cse block block-search container-inline" data-drupal-selector="search-block-form" id="block-poshukovaforma" role="search">
+  
+    
+    <div class="content container-inline">
+        <form action="/index.php/en/search/google" method="get" id="search-block-form" accept-charset="UTF-8" class="search-form search-block-form">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" />
+</div>
+
+</form>
+
+  
+  </div>
+</div>
+<div id="block-languagesimple" class="block block-block-content block-block-content8b0778ee-1c2d-4672-aa0b-efa69750f1ea">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul class="language-switcher-locale-url"><li class="uk first active"><a href="/" class="language-link active" lang="uk" xml:lang="uk">Українська</a></li>
+<li class="ru"><a href="/ru" class="language-link" lang="ru" xml:lang="ru">Русский</a></li>
+<li class="en last"><a href="/en" class="language-link" lang="en" xml:lang="en">English</a></li>
+</ul></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+	   </div>
+	   </div>
+  
+    <header id="header" class="header" role="banner" aria-label="Site header">
+      <div class="section layout-container clearfix">
+          <div class="clearfix region region-header">
+    <div id="block-sitebranding" class="clearfix site-branding block block-system block-system-branding-block">
+  
+    
+        <a href="/index.php/en" title="Home" rel="home" class="site-branding__logo">
+      <img src="/files/logo.png" alt="Home" />
+    </a>
+        <div class="site-branding__text">
+                    <div class="site-branding__slogan">National Technical University of Ukraine</br> “Igor Sikorsky Kyiv Polytechnic Institute”</div>
+          </div>
+  </div>
+<div id="block-ikonkipravoruchvidlogotipu" class="block block-block-content block-block-content82a1d2a3-d978-4f09-bc21-a0aad61cf459">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="header-icons"> <a href="#rozkladModal" class="icon rozklad" title="KPI Schedule for Students and Teachers"> <i> </i> Schedule </a> <a href="#libraModal" class="icon libra" title="KPI Library Resources"> <i> </i> Library </a> <a href="#ecampusModal" class="icon ecampus" title="E-Campus KPI "> <i> </i> Campus </a> <a href="/en/news" class="icon kpinews" title="KPI News"> <i> </i> News </a> <a href="#mediaModal" class="icon wcams" title="KPI Media Resources"> <i> </i> Media </a> <a href="http://relax.kpi.ua/" class="icon relax" title="KPI Base and Boarding Rest for Students, Teachers, and Staff"> <i> </i> Vacation </a> <a href="http://hostelpay.kpi.ua/ " class="icon hostelpay" title="KPI Dormitory Payment"> <i> </i> Payment </a> </div>
+<div id="rozkladModal" class="modalDialog">
+<div>
+<a href="#close" title="Close" class="close"> X </a>
+<div class="modalText">
+<h3> Department of Education </h3>
+<p> <a href="http://rozklad.kpi.us/Schedules/ScheduleGroupSelection.aspx"> Class Schedule </a> </p>
+<p> <a href="http://rozklad.kpi.us/Schedules/SessionScheduleGroupSelection.aspx"> Schedule </a> </p>
+<p> <a href="http://rozklad.kpi.us/Schedules/LecturerSelection.aspx"> Teacher Schedule </a> </p>
+</div>
+</div>
+</div>
+<div id="ecampusModal" class="modalDialog">
+<div>
+<a href="#close" title="Close" class="close"> X </a>
+<div class="modalText">
+<h3> Information Resources </h3>
+<p> <a href="https://ecampus.kpi.us/"> E-Campus </a> </p>
+<p> <a href="https://directory.kpi.ua/"> Information Resources </a> </p>
+<p> <a href="https://intellect.kpi.ua/"> KPI Teachers </a> </p>
+<p> <a href="https://github.com/kpi-ua"> GitHub Repository </a> </p>
+</div>
+</div>
+</div>
+<div id="mediaModal" class="modalDialog">
+<div>
+<a href="#close" title="Close" class="close"> X </a>
+<div class="modalText">
+<h3> KPI Media Resources </h3>
+<p> <a href="/en/webcam"> Webcams </a> </p>
+<p> <a href="http://r.kpi.ua/"> Radio </a> </p>
+<p> <a href="/en/video"> Video  </a> </p>
+</div>
+</div>
+</div>
+<div id="libraModal" class="modalDialog">
+<div>
+<a href="#close" title="Close" class="close"> X </a>
+<div class="modalText">
+<h3> Library </h3>
+<p> <a href="http://library.kpi.ua"> Library Site </a> </p>
+<p> <a href="http://opac.kpi.ua"> Catalog </a> </p>
+<p> <a href="http://ela.kpi.ua"> Electronic Archive </a> </p>
+</div>
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+       
+      </div>
+    </header>
+            <div id="main-wrapper" class="layout-main-wrapper layout-container clearfix">
+      <div id="main" class="layout-main clearfix">
+        
+        <main id="content" class="column main-content" role="main">
+          <section class="section">
+            <a id="main-content" tabindex="-1"></a>
+              <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+        <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                  <a href="/index.php/en">Home</a>
+              </li>
+        </ol>
+  </nav>
+
+    </div>
+  </div>
+<div id="block-pagetitle" class="block block-core block-page-title-block">
+  
+    
+      <div class="content">
+      
+  <h1 class="title page-title"><span class="field field--name-title field--type-string field--label-hidden">Information subject to mandatory disclosure</span>
+</h1>
+
+
+    </div>
+  </div>
+<div id="block-bartik-system-main" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+<article role="article" about="/en/information" class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+          
+      </header>
+  <div class="node__content clearfix">
+    
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Information subject to mandatory disclosure on the official websites of higher education institutions in accordance with the requirements of the Law of Ukraine "On Higher Education" (Law N 1556-VII):</p>
+<!--break--><ul type="disc"><li><a href="/en/node/7924">statute</a>;</li>
+<li> provision of any collegial bodies and their personal composition, operating in higher education: </li>
+<ul type="disc"><li><a href="/en/node/7174">Regulations on the Academic Council</a></li>
+<li><a href="/en/node/10304">Regulations on the Supervisory Board</a></li>
+<li>Regulations of subdivisions of the university posted on the subdivisions website or on <a href="http://document.kpi.ua"> the Information Service NTUU "KPI" in the local network</a>;</li>
+</ul><li><a href="/en/documents">university documents related to the organization of the educational process</a>;</li>
+<ul><li><a href="http://pk.kpi.ua">rules for admission to higher education institution for the current year and amendments thereto [resident]</a></li>
+<li><a href="http://istudent.kpi.ua/en/vstup.html">rules for admission to higher education institution for the current year and amendments thereto [non-resident]</a></li>
+</ul><li><a href="/en/node/7200">the composition of the governing bodies of the higher education institution</a>;</li>
+<li><a href="/en/board-job">a list of vacancies in higher education, for the assignment on a competitive basis [uk]</a>;</li>
+<li><a href="/en/estimate">the budget of the higher education institution for the current year and any changes thereto, information on the use of budget funds in the context of programs [uk]</a>;</li>
+<li><a href="/en/report">Annual Report</a>:</li>
+<ul type="disc"><li><a href="/en/report-rector">Annual reports of the rector at the meeting of researchers and teachers</a></li>
+<li><a href="/en/report">The reports</a>;</li>
+<li> <a href="https://public.nazk.gov.ua/"> Revenues gained by executives (the Unified state register of declarations) </a>. </li>
+</ul><li><a href="/en/stafflist">staff list for the current year (including the summary) [uk]</a>;</li>
+<li><a href="http://tender.kpi.ua">information about the tender procedures (annual procurement plan for the current year, as well as information that is given to the Ministry of Economic Development and Trade for publication in the newsletter "Herald of public procurement") [uk]</a>;</li>
+<li>fees for the tuition fees</li>
+<ul><li><a href="/en/contract">fees for the tuition fees and providing additional educational services [resident]</a>;</li>
+<li><a href="http://istudent.kpi.ua/en/vstup/cenovaya-politika.html">fees for the tuition fees and providing additional educational services [non-resident]</a>;</li>
+</ul><li> <a href="http://relax.kpi.ua/service-ntuu-kpi/"> price list of additional services (services in health, recreation, food and sport) </a>; </li>
+<li><a href="/en/monitoring">The results of the annual evaluation of candidates of higher education</a>;</li>
+<li><a href="/en/rating-teacher">The results of the annual evaluation of applicants research and teaching and teaching staff of higher education institutions (including the regulations about its holding) [uk] </a>;</li>
+<li><a href="/en/s-council">Other information on the procedures and results of the decision-making in carrying out activities in higher education institutions of higher education, requires disclosure (publication) in the manner prescribed by law</a></li>
+</ul></div>
+      
+      <div class="field field--name-field-link field--type-link field--label-hidden field__items">
+              <div class="field__item"><a href="/en/node/7192">Access to public information</a></div>
+              <div class="field__item"><a href="/en/contact">Feedback form for users</a></div>
+          </div>
+  
+      <div class="field field--name-taxonomy-vocabulary-4 field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/en/web-document" hreflang="en">Regulatory documents</a></div>
+          </div>
+  
+      <div class="field field--name-taxonomy-vocabulary-9 field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/mon" hreflang="UK">МОН України</a></div>
+              <div class="field__item"><a href="/kmu" hreflang="UK">КМУ</a></div>
+          </div>
+  
+  </div>
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+          </section>
+        </main>
+                          <div id="sidebar-second" class="column sidebar">
+            <aside class="section" role="complementary">
+                <div class="region region-sidebar-second">
+    <div id="block-video" class="block block-block-content block-block-contentc4f4f375-1738-4f27-9dd2-f98c56910f6d">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><iframe width="100%" height="175" src="https://www.youtube.com/embed/UvvUBiO29_0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><p>
+<a href="https://www.sikorsky-distance.org/" target="_blank"><img src="/images/sikorsky-distance.jpg" width="100%" /></a></p>
+</div>
+      
+    </div>
+  </div>
+<nav role="navigation" aria-labelledby="block-mainnavigation-3-menu" id="block-mainnavigation-3" class="block block-menu navigation menu--main">
+      
+  <h2 id="block-mainnavigation-3-menu">University</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-mainnavigation-3"></div>
+    <div class="menu-toggle-target" id="hide-block-mainnavigation-3"></div>
+    <a class="menu-toggle" href="#show-block-mainnavigation-3">Show &mdash; University</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-mainnavigation-3">Hide &mdash; University</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item menu-item--collapsed">
+        <a href="/en/kpi_about" title="Greetings from Rector of KPI" data-drupal-link-system-path="node/15">Greetings from Rector of KPI</a>
+              </li>
+                <li class="menu-item menu-item--expanded menu-item--active-trail">
+        <a href="/en/information" title="Information subject to mandatory disclosure" data-drupal-link-system-path="node/2226" class="is-active">Official information</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/en/statute" title="STATUTE of National Technical University of Ukraine  «Kyiv Polytechnic Institute»" data-drupal-link-system-path="node/333">Statute</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/licence" title="Licenses for conducting educational activity" data-drupal-link-system-path="node/9588">Licenses</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/en/2020-2025-strategy" title="The program of KPI development for 2012-2020" data-drupal-link-system-path="node/17871">The development strategy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/report" title="Reports of NTUU KPI rector, university departments and services" data-drupal-link-system-path="taxonomy/term/36">Summary reports</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/rector-election" title="Rector&#039;s election" data-drupal-link-system-path="node/17209">Rector&#039;s election</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/code" title="Code of Honor of the National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”" data-drupal-link-system-path="node/10295">Code of Honor</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/admin-rule" title="Internal regulations of KPI" data-drupal-link-system-path="node/337">Internal regulations</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/collective_agreement" title="Collective agreement of the Igor Sikorsky Kyiv Polytechnic Institute" data-drupal-link-system-path="taxonomy/term/891">Collective agreement</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/attribute" title="Logo, flag, banner, emblems of KPI" data-drupal-link-system-path="taxonomy/term/1782">KPI Attributes</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/en/kpi_faculty" title="Institutes and Faculties of University" data-drupal-link-system-path="node/16">Institutes and Faculties</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/en/almamater" title="History of National Technical University of Ukraine «Igor Sikorsky Kyiv Polytechnic Institute»" data-drupal-link-system-path="node/108">History</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/en/kpi_links" title="Department of International Cooperation" data-drupal-link-system-path="node/122">International Cooperation</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/en/location" title="he territorial layout of Igor Sikorsky Kyiv Polytechnic Institute - Address, maps" data-drupal-link-system-path="node/121">Address, territorial layout</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/union" title="Trade union organizations" data-drupal-link-system-path="node/155">Trade unions</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/prozorro" data-drupal-link-system-path="node/3314">Public Procurement</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/en/anticor" title="The line for information about corruption by officials and employees of KPI" data-drupal-link-system-path="taxonomy/term/2034">Anti-corruption measures</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/en/offices" title="University news" data-drupal-link-system-path="taxonomy/term/10">University news</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+<div class="views-element-container block block-views block-views-blockcontent-recent-block-1" id="block-views-block-content-recent-block-1-2">
+  
+      <h2>Recent content</h2>
+    
+      <div class="content">
+      <div><div class="view view-content-recent view-id-content_recent view-display-id-block_1 js-view-dom-id-e96d2c62b9febe16a01f89646752e409082f4d525c39514f3d9f8f2cb85a886d">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/en/board-job" hreflang="en">Competition to fill the vacancy of head</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/en/node/18484" hreflang="en">Yevhenii Alekseik Is a Member of the International Space Mission</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/en/node/18480" hreflang="en">Welcome To the 10th Anniversary International Festival of Innovative Projects &quot;Sikorsky Challenge 2021&quot;</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/en/2021-01-29" hreflang="en">Academic Council Meeting: 29.12.2021</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/en/2021-kp4-fmm" hreflang="en">Weekdays of the Department of Management: Quarantine Is No Obstacle To Students</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/en/node/18476" hreflang="en">IEEE International Black Sea Conference on Communications and Networking</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/en/2021-mendeleev" hreflang="en">Philosopher of Chemistry and Other Exact Sciences. To Dmitri Mendeleev&#039;s Birthday</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/en/2021-02-07" hreflang="en">Igor Sikorsky Kyiv Polytechnic Institute Starts Antonov Educational Training Program for Aircraft Designers</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/en/2021-kp4-ntb" hreflang="en">Expanded Access To Authoritative International Information Resources</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/en/node/18472" hreflang="en">Igor Sikorsky Kyiv Polytechnic Institute Development Fund Has completely Implemented 2020 Budget</a></span></div></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+          <div class="more-link"><a href="/en/front">More</a></div>
+
+      </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+            </aside>
+          </div>
+              </div>
+    </div>
+          <div class="featured-bottom">
+        <aside class="layout-container clearfix" role="complementary">
+            <div class="region region-featured-bottom-first">
+    <nav role="navigation" aria-labelledby="block-bartik-menu-menu-0-menu" id="block-bartik-menu-menu-0" class="block block-menu navigation menu--menu----------------0">
+      
+  <h2 id="block-bartik-menu-menu-0-menu">Для користувачів</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-bartik-menu-menu-0"></div>
+    <div class="menu-toggle-target" id="hide-block-bartik-menu-menu-0"></div>
+    <a class="menu-toggle" href="#show-block-bartik-menu-menu-0">Show &mdash; Для користувачів</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-bartik-menu-menu-0">Hide &mdash; Для користувачів</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/en/pupil" title="Information for schoolchildren" data-drupal-link-system-path="node/7238">Schoolchildren</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/application" data-drupal-link-system-path="node/2426">Applicants</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/freshmen" title="Полезная информация для первокурсников" data-drupal-link-system-path="node/1640">Первокурснику</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/4students" data-drupal-link-system-path="node/7285">Students</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/alumnus" data-drupal-link-system-path="node/7239">Alumni</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/tutor" data-drupal-link-system-path="node/7127">Teachers </a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+            <div class="region region-featured-bottom-second">
+    <nav role="navigation" aria-labelledby="block-informaciyniresursi-menu" id="block-informaciyniresursi" class="block block-menu navigation menu--secondary-menu">
+      
+  <h2 id="block-informaciyniresursi-menu">Information resources</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-informaciyniresursi"></div>
+    <div class="menu-toggle-target" id="hide-block-informaciyniresursi"></div>
+    <a class="menu-toggle" href="#show-block-informaciyniresursi">Show &mdash; Information resources</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-informaciyniresursi">Hide &mdash; Information resources</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/en/weblinks" data-drupal-link-system-path="node/7921">University Network Sites</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/journals" data-drupal-link-system-path="term/301">Scientific publications</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/u_conferences" data-drupal-link-system-path="term/147">Scientific conferences</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://report.kpi.ua/" title="Completed research works">Research works</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://ela.kpi.ua/">Electronic Archive</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/kp" title="Weekly university newspaper" data-drupal-link-system-path="taxonomy/term/148">Newspaper &quot;Kyiv Polytechnic&quot;</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+            <div class="region region-featured-bottom-third">
+    <nav role="navigation" aria-labelledby="block-mozhlivostiosviti-2-menu" id="block-mozhlivostiosviti-2" class="block block-menu navigation menu--menu-web">
+      
+  <h2 id="block-mozhlivostiosviti-2-menu">Educational opportunities</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-mozhlivostiosviti-2"></div>
+    <div class="menu-toggle-target" id="hide-block-mozhlivostiosviti-2"></div>
+    <a class="menu-toggle" href="#show-block-mozhlivostiosviti-2">Show &mdash; Educational opportunities</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-mozhlivostiosviti-2">Hide &mdash; Educational opportunities</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="https://eqmi.kpi.ua/">Preparing for University</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.sikorsky-distance.org/">Distance education</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://mobilnist.kpi.ua/" title="Academic Mobility Department">Academic Mobility</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://ipo.kpi.ua/druga-vishha" title="Second and subsequent higher education in KPI">Retraining (Second Higher Education)</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://ipo.kpi.ua/povyshenie_kvalif">Certification training</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://istudent.kpi.ua/">Center for International Education</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+        </aside>
+      </div>
+        <footer class="site-footer">
+      <div class="layout-container">
+                  <div class="site-footer__top clearfix">
+              <div class="region region-footer-first">
+    <nav role="navigation" aria-labelledby="block-organizacii-2-menu" id="block-organizacii-2" class="block block-menu navigation menu--organizacii">
+      
+  <h2 id="block-organizacii-2-menu">Organizations</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-organizacii-2"></div>
+    <div class="menu-toggle-target" id="hide-block-organizacii-2"></div>
+    <a class="menu-toggle" href="#show-block-organizacii-2">Show &mdash; Organizations</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-organizacii-2">Hide &mdash; Organizations</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="http://rabota.kpi.ua/" title="Vacancies for students and graduates of KPI, offers for employers">Center of Career Development</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://museum.kpi.ua/">State Polytechnic Museum</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://kpi-telekom.kpi.ua/">KPI-Telekom</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://uajc.kpi.ua/">Ukrainian-Japanese Center</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://ckm.kpi.ua/" title="Center of Culture and Arts">Center of Culture and Arts</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://sport.kpi.ua/" title="Center of Physical Education and Sports">Sportcenter </a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+              <div class="region region-footer-second">
+    <nav role="navigation" aria-labelledby="block-struktura-menu" id="block-struktura" class="block block-menu navigation menu--menu-structure">
+      
+  <h2 id="block-struktura-menu">Structure</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-struktura"></div>
+    <div class="menu-toggle-target" id="hide-block-struktura"></div>
+    <a class="menu-toggle" href="#show-block-struktura">Show &mdash; Structure</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-struktura">Hide &mdash; Structure</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/en/rectorate" data-drupal-link-system-path="taxonomy/term/354">Rectorate</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/office" data-drupal-link-system-path="term/8">Departments</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/institutes" data-drupal-link-system-path="term/275">Institutes</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/faculties" data-drupal-link-system-path="term/274">Faculties</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/chairs" data-drupal-link-system-path="term/299">Chairs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/subdivisions" data-drupal-link-system-path="term/25">University departments</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+              <div class="region region-footer-third">
+    <nav role="navigation" aria-labelledby="block-proekti-menu" id="block-proekti" class="block block-menu navigation menu--menu---------------">
+      
+  <h2 id="block-proekti-menu">Projects</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-proekti"></div>
+    <div class="menu-toggle-target" id="hide-block-proekti"></div>
+    <a class="menu-toggle" href="#show-block-proekti">Show &mdash; Projects</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-proekti">Hide &mdash; Projects</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/en/sikorsky-challenge" title="Sikorsky Challenge" data-drupal-link-system-path="taxonomy/term/348">Sikorsky Challenge</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/researchers" data-drupal-link-system-path="taxonomy/term/161">Teachers-researchers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/node/18066" data-drupal-link-system-path="node/18066">Code of Honor</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/accreditation" data-drupal-link-system-path="taxonomy/term/2277">Accreditation</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://pk.kpi.ua/specialities/" title="Specialties and educational programs">Specialties and educational programs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/covid-19" title="Coronavirus disease (COVID-19)" data-drupal-link-system-path="taxonomy/term/3062">Coronavirus</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+              <div class="region region-footer-fourth">
+    <div class="views-element-container block block-views block-views-blockslayder-baneri-block-1" id="block-views-block-slayder-baneri-block-1">
+  
+    
+      <div class="content">
+      <div><div class="view view-slayder-baneri view-id-slayder_baneri view-display-id-block_1 js-view-dom-id-7c76f1febc8490c6b75a1a9ac218247e411e1ce9b6fe66ac349d87d0178b38e8">
+  
+    
+      
+      <div class="view-content">
+        <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_slayder_baneri-block_1" class="views_slideshow_cycle_main views_slideshow_main">
+    <div id="views_slideshow_cycle_teaser_section_slayder_baneri-block_1"  class="views_slideshow_cycle_teaser_section">
+     <div id="views_slideshow_cycle_div_slayder_baneri-block_1_0"  class="views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+      <div  class="views-row views-row-0 views-row-odd views-row-first">
+  <div class="views-field views-field-node-image"><div class="field-content"><a href="https://mon.gov.ua/ua">  <img src="/files/images-page/mon.jpg" width="429" height="206" alt="Банер МОН України" title="Банер МОН України" typeof="foaf:Image" />
+
+</a></div></div>
+</div>
+
+  </div>
+
+     <div id="views_slideshow_cycle_div_slayder_baneri-block_1_1"  class="views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+      <div  class="views-row views-row-1 views-row-even">
+  <div class="views-field views-field-node-image"><div class="field-content"><a href="http://www.solor.gov.ua/">  <img src="/files/images-page/solor_0.jpg" width="429" height="206" alt="http://www.solor.gov.ua/" title="http://www.solor.gov.ua/" typeof="foaf:Image" />
+
+</a></div></div>
+</div>
+
+  </div>
+
+     <div id="views_slideshow_cycle_div_slayder_baneri-block_1_2"  class="views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+      <div  class="views-row views-row-2 views-row-odd">
+  <div class="views-field views-field-node-image"><div class="field-content"><a href="http://vnz.org.ua">  <img src="/files/images-page/vnz.jpg" width="429" height="206" alt="http://vnz.org.ua/" title="http://vnz.org.ua/" typeof="foaf:Image" />
+
+</a></div></div>
+</div>
+
+  </div>
+
+     <div id="views_slideshow_cycle_div_slayder_baneri-block_1_3"  class="views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+      <div  class="views-row views-row-3 views-row-even">
+  <div class="views-field views-field-node-image"><div class="field-content"><a href="https://council.science">  <img src="/files/images-page/isc_0.png" width="429" height="206" alt="Міжнародна наукова рада (ISC)" title="Міжнародна наукова рада (ISC)" typeof="foaf:Image" />
+
+</a></div></div>
+</div>
+
+  </div>
+
+     <div id="views_slideshow_cycle_div_slayder_baneri-block_1_4"  class="views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+      <div  class="views-row views-row-4 views-row-odd views-row-last">
+  <div class="views-field views-field-node-image"><div class="field-content"><a href="http://www.solor.gov.ua/">  <img src="/files/images-page/solor_0.jpg" width="429" height="206" alt="http://www.solor.gov.ua/" title="http://www.solor.gov.ua/" typeof="foaf:Image" />
+
+</a></div></div>
+</div>
+
+  </div>
+
+  </div>
+
+</div>
+
+
+        </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+<div id="block-banner" class="block block-block-content block-block-contenta98fb2d0-8143-4d29-8c1f-f091bfc37670">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="https://prozorro.gov.ua/plan/search?query=02070921"><img src="/files/images-page/prozorro.png" width="100%" alt="Плани закупівель КПІ ім.Ігоря Сікорського" /></a></p>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+          </div>
+                          <div class="site-footer__bottom">
+              <div class="region region-footer-fifth1">
+    <div id="block-footermessage" class="block block-block-content block-block-content973ce366-672d-4b32-b77f-fd7f5a90f384">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><span itemscope="" itemtype="http://schema.org/EducationalOrganization"><span itemprop="name"><a href="/contact">National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”</a></span><br /><br />
+1998-2021 ©  <a href="/en/location" class="mapModal">Map</a> | <a href="/en/sitemap">Sitemap</a> | <a href="/en/site">Information about site</a><br /><span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">Address: <span itemprop="streetAddress">37, Prosp. Peremohy</span>, <span itemprop="addressLocality">Kyiv</span>, <span itemprop="addressRegion">Ukraine</span>,  <span itemprop="postalCode">03056</span>,  <span itemprop="email">mail[at]kpi.ua</span>, <span itemprop="email">webmaster[at]kpi.ua</span></span><br /><br />
+Tel.: <span itemprop="telephone">+380 44  204 9494 </span></span>
+
+</p></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+			  <div class="region region-footer-fifth2">
+    <div id="block-ikonkisocmerezh-2" class="block block-block-content block-block-content86872b96-d29d-4cd9-8cd3-19f903736cc9">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="socials"><a class="box rss" href="/rss.xml" title="Стрічка нових матеріалів сайту КПІ"></a><a class="box fb" href="https://www.facebook.com/ntuu.kpi/" title="Офіційна сторінка КПІ в Facebook"></a><a class="box tw" href="https://twitter.com/kpiua" title="Офіційна стрічка КПІ в Twitter"></a><a class="box yt" href="https://www.youtube.com/kpiua" title="Офіційний youtube канал КПІ"></a><a class="box link" href="https://www.linkedin.com/company/kpi.ua" title="Офіційна сторінка КПІ в Linkedin"></a><a class="box in" href="https://www.instagram.com/kpi.ua/" title="Офіційний Instagram КПІ"></a><a class="box te" href="/telegram" title="Офіційні канали КПІ"></a></div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+          </div>
+              </div>
+    </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/2226","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"statistics":{"data":{"nid":"2226"},"url":"\/core\/modules\/statistics\/statistics.php"},"googleCSE":{"cx":"015487142983591739683:agvwvdwgrwe","language":"en","resultsWidth":0,"domain":"","isDefault":true},"ajaxTrustedUrl":{"\/index.php\/en\/search\/google":true},"superfish":{"superfish-main":{"id":"superfish-main","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast","autoArrows":false,"dropShadows":false},"plugins":{"smallscreen":{"mode":"window_width","title":"Main navigation"},"supposition":true,"supersubs":true}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_slayder_baneri-block_1":{"num_divs":5,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"slayder_baneri-block_1","effect":"fade","transition_advanced":1,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"items_per_slide_first":0,"items_per_slide_first_number":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}","advanced_options_choices":0,"advanced_options_entry":""}},"viewsSlideshow":{"slayder_baneri-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"user":{"uid":0,"permissionsHash":"1a6674de25f026afc0554251130a33bae7c402f3cb8b767dcb0764e3c1369ef2"}}</script>
+<script src="/files/js/js_O01iKVqJ0bdtRXvoFV1g9yKDYjI1aCRpnsU0v_6UEQ0.js"></script>
+
+  </body>
+</html>

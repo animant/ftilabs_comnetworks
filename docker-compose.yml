@@ -1,0 +1,245 @@
+version: '3.6'
+services:
+# Network entry point
+  corp_gateway:
+    container_name: corp_gateway
+    build: router
+    ports:
+      - "8022:23456"
+    command: >
+        sh -c "sh /root/configure.sh &&
+        sed -i 's/AllowTcpForwarding no/AllowTcpForwarding yes/g' /etc/ssh/sshd_config &&
+        ssh-keygen -A &&
+        /usr/sbin/sshd &&
+        adduser --disabled-password -u 8877 bastion &&
+        echo 'bastion:hmPThGg3rV4QsJ8X'|chpasswd &&
+        ssh-keygen -q -t rsa -N '' -f ~/.ssh/id_rsa &&
+        mkdir /home/bastion/.ssh &&
+        cat ~/.ssh/id_rsa.pub >> /home/bastion/.ssh/authorized_keys &&
+        chmod 600 /home/bastion/.ssh/authorized_keys &&
+        chown bastion:bastion -R /home/bastion/.ssh &&
+        echo 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDdAOQNJ30TAoOvlKvFx+nd1sXZtEHlRJKeO+Tm4zRHVXVEzrVLolJPzWxEgh7mKAiIo/87NpIMFYE3Ce82gCBgwZYId9C/tqxxPfMevzh0JZStJ5+OLzWct6HcDuq37VI8HkJQ9q2S5hFIg2eLTXYgMzXq0bSiGqtk0nUaw7Y+QQGoE1XyZ/C6fG6JyFGPk6HnfEBfSppjyl7JcEnFVEOoxF6k2siAbMywPFbT8sr1BgB9TRAi2LbS8sr6mhpVvZmif/LeO2TN9wpbtbxW6dS4/Er37nDhalgqGIvV5hUVXU8HoEnVPUo0whNWXPxXSdGmVoN0ryhJyqtAuU/mPRqftOnZCh11hD8l1AMqzuUjjU9MsJsN0Xvf8cBGsmHOO2v23phBUKG4mGfb7l0znQb4uZpdo7C6h+t7Xu9wR9CpY2FABlYaMM2yAIbNhjv9HhKJ6X2Hj8PyK/vEVMYqbvBN5omvlpS84gCDSjGTgT3doL1GxbJnFMn8MX32LWQiwy0= fiztehlab@ubuntu' >> /home/bastion/.ssh/authorized_keys &&
+        ssh -i ~/.ssh/id_rsa -o 'StrictHostKeyChecking no' -L 0.0.0.0:23456:localhost:12345 bastion@localhost -N"
+
+    networks:
+      default:
+      gw_net:
+        ipv4_address: 172.11.15.220
+    restart:
+      on-failure
+    privileged: true
+
+# Corporative subnetworks
+  corp1:
+    container_name: corp1
+    build: router
+    command: >
+        sh -c "sh /root/configure.sh 172.11.15.1 172.11.15.220 &&
+        tail -f /dev/null"
+
+    networks:
+      gw_net:
+        ipv4_address: 172.11.15.17
+      icorp1_net:
+        ipv4_address: 172.16.238.22
+    restart:
+      on-failure      
+    privileged: true
+
+  corp2:
+    container_name: corp2
+    build: router
+    command: >
+        sh -c "sh /root/configure.sh 172.11.15.1 172.11.15.220 &&
+        tail -f /dev/null"
+    networks:
+      gw_net:
+        ipv4_address: 172.11.15.33
+      icorp2_net:
+        ipv4_address: 172.24.118.22
+    restart:
+      on-failure      
+    privileged: true
+
+
+# Client PC (endpoints)
+  client_pc1:
+    container_name: client_pc1
+    build: pc
+    #ports:
+        #- "8022:22"
+    command: >
+        sh -c "sh /root/configure.sh 172.16.238.1 172.16.238.22 &&
+        echo 'PermitRootLogin yes' >> /etc/ssh/sshd_config &&
+        echo 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDEGws/8Uf4W9oUD4HuEK1vFU1oppIpqo10ThSXRSNQJKLSGipUm79ER9OMZJUIeSHdLZf3tE4oy1z2wi4RVFH0Sd+3+XFCTCHgGuZbpg//273v0HQPNZSbRDpYkRFV8cEThXqZXaPhpaMNO0iPYzXZKYkynpunr4EeUcoC7w5t4u5GC5f2As7vMPjY/PA2eRPnTXbMzlic79lCNM4BU4k8krTOrEpdKZurbhrEQ+OvICLvhn8UjiuoEzqYKOvNR8UsB7VMblFf5hG0toQL8iGUgA9fzWAuhBDOhk0kXEdfGoemGm9F7tfhzIAz/cR19B8hZQ4NAbNbj9DDbqgXVR7+sMcyouGnhCUQQxbwbk3z3dlM3eMBFLGIcGkgjtTg+0oXdswkxyKz1vl3I+LtBJTiHOB4zBTFfU+RQRgXmeZz8LDaUWaTVRUmDIe0OfdJXtk23Y+dA64iygJX/uBeIxixEish1rn7J3Wf7GPxg/ILIo4eGw43c+Ai72Zte96XSV8= fiztehlab@ubuntu' > /root/.ssh/authorized_keys &&
+        /etc/init.d/ssh start &&
+        ssh-keygen -f '/root/.ssh/known_hosts' -R '172.11.15.220' &&
+        chown root:root -R ~/.ssh/ &&
+        chmod 600 ~/.ssh/authorized_keys &&
+        sh /root/client_emulator.sh http 172.11.15.61 &&
+        ssh -o 'StrictHostKeyChecking no' -i /root/.ssh/id_rsa -R 12345:localhost:22 bastion@172.11.15.220 -N"
+
+
+
+    volumes:
+      - ./pc/pc1_keys/:/root/.ssh
+    networks:
+      icorp1_net:
+        ipv4_address: 172.16.238.10
+    restart:
+      on-failure      
+    privileged: true
+
+  client_pc2:
+    container_name: client_pc2
+    build: pc
+    command: >
+        sh -c 'sh /root/configure.sh 172.16.238.1 172.16.238.22 &&
+        sh /root/client_emulator.sh ftpp 172.11.15.53 &&
+        sh /root/client_emulator.sh wpa ftilabs.com &&
+        tail -f /dev/null'
+    networks:
+      icorp1_net:
+        ipv4_address: 172.16.238.30
+    restart:
+      on-failure      
+    privileged: true
+    extra_hosts:
+      - "ftilabs.com:172.11.15.71"
+
+  client_pc3:
+    container_name: client_pc3
+    build: pc
+    command: >
+        sh -c 'sh /root/configure.sh 172.24.118.1 172.24.118.22 &&
+        sh /root/client_emulator.sh ftpg 172.11.15.53 &&
+        tail -f /dev/null'
+    networks:
+      icorp2_net:
+        ipv4_address: 172.24.118.15
+    restart:
+      on-failure      
+    privileged: true
+
+  client_pc4:
+    container_name: client_pc4
+    build: pc
+    command: >
+        sh -c "sh /root/configure.sh 172.24.118.1 172.24.118.22 &&
+        sh /root/client_emulator.sh wp 172.11.15.71 &&
+        tail -f /dev/null"
+    networks:
+      icorp2_net:
+        ipv4_address: 172.24.118.16
+    restart:
+      on-failure      
+    privileged: true
+
+# Backend services
+  ftp_server:
+    container_name: ftp_server
+    image: delfer/alpine-ftp-server
+    ports:
+        - "21:21"
+        - "21000-21010:21000-21010"
+    networks:
+      #default:
+      gw_net:
+        ipv4_address: 172.11.15.53
+    environment:
+        USERS: "administrator|Chogory2002"
+        ADDRESS: "0.0.0.0"
+    restart:
+      on-failure
+    privileged: true
+
+  http_server:
+    container_name: http_server
+    image: httpd:2.4
+    volumes:
+      - ./site_data/kpi.ua/:/usr/local/apache2/htdocs/
+    networks:
+      gw_net:
+        ipv4_address: 172.11.15.61
+    restart:
+      on-failure
+    privileged: true
+
+  https-portal:
+    build: portal_patched
+    ports:
+      - '80:80'
+      - '443:443'
+    links:
+      - wordpress
+    restart: always
+    networks:
+      default:
+      gw_net:
+        ipv4_address: 172.11.15.71
+        aliases:
+          - ftilabs.com
+      wp_net:
+        ipv4_address: 10.10.15.20
+    environment:
+      DOMAINS: 'ftilabs.com -> http://wordpress:80'
+      STAGE: 'local'
+    privileged: true
+
+  db:
+    image: mysql:5.7
+    volumes:
+      - ./wp_db_data/_data:/var/lib/mysql
+    restart: always
+    networks:
+      wp_net:
+        ipv4_address: 10.10.15.13
+    environment:
+      MYSQL_ROOT_PASSWORD: somewordpress
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress
+      MYSQL_PASSWORD: wordpress
+
+  wordpress:
+    depends_on:
+      - db
+    image: wordpress:latest
+    restart: always
+    networks:
+      wp_net:
+        ipv4_address: 10.10.15.15
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: wordpress
+      WORDPRESS_DB_PASSWORD: wordpress
+      WORDPRESS_DB_NAME: wordpress
+
+
+networks:
+    icorp1_net:
+        driver: macvlan
+        ipam:
+            driver: default
+            config:
+                - subnet: 172.16.238.0/24
+    icorp2_net:
+        driver: macvlan
+        ipam:
+            driver: default
+            config:
+                - subnet: 172.24.118.0/24
+    gw_net:
+        driver: macvlan
+        ipam:
+            driver: default
+            config:
+                - subnet: 172.11.15.0/24
+
+    wp_net:
+        driver: macvlan
+        ipam:
+            driver: default
+            config:
+                - subnet: 10.10.15.0/24
+
+

@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="UK" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://kpi.ua/index.php/document_control" />
+<meta name="description" content="" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link href="/files/player/video-js.css" rel="stylesheet" />
+<script &lt;!--="&lt;!--" Global="Global" site="site" tag="tag" (gtag.js)="(gtag.js)" -="-" Google="Google" Analytics="Analytics" --="--">
+ async src="https://www.googletagmanager.com/gtag/js?id=UA-10393363-2"&gt;</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-10393363-2');
+</script>
+<script src="https://streams.kpi.ua/player/ie8/1.1.2/videojs-ie8.min.js"></script>
+<script src="/files/player/video.js"></script>
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5baba0b59c489500119f5bd9&amp;product=sop" async="async"></script>
+<script></script>
+<link rel="shortcut icon" href="/files/favicons/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="ru" href="https://kpi.ua/index.php/ru/document_control" />
+<link rel="alternate" hreflang="UK" href="https://kpi.ua/index.php/document_control" />
+<link rel="alternate" hreflang="en" href="https://kpi.ua/index.php/en/document_control" />
+<link rel="revision" href="https://kpi.ua/index.php/document_control" />
+
+    <title>Положення про поточний, календарний та семестровий контроль результатів навчання в КПІ ім. Ігоря Сікорського | КПІ ім. Ігоря Сікорського</title>
+    <link rel="stylesheet" media="all" href="/files/css/css_hrltP55-KcC212O9u9jBEBITHme8Zxfs8O_-NXMnMcw.css" />
+<link rel="stylesheet" media="all" href="/files/css/css_gMYUobDjuWTC_0rEIG-S329z822omyxk2q-ZuFweN5g.css" />
+<link rel="stylesheet" media="print" href="/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body class="layout-one-sidebar layout-sidebar-second path-node page-node-type-page">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Перейти до основного вмісту
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+       <div class="kpi">
+	   <div class="section layout-container clearfix">
+	     <div class="region region-primary-menu">
+    <div id="block-mainnavigation-2" class="block block-superfish block-superfishmain">
+  
+    
+      <div class="content">
+      
+<ul id="superfish-main" class="menu sf-menu sf-main sf-horizontal sf-style-none">
+  
+<li id="main-menu-link-content239e18aa-a37c-43e7-846b-b8027f29692f" class="sf-depth-1 menuparent"><a href="/about" title="Про КПІ ім. Ігоря Сікорського: загальна інформація та новини" class="sf-depth-1 menuparent">Університет</a><ul><li id="main-menu-link-content684c89ca-a4ad-4ed6-bcdf-1c8053490aaf" class="sf-depth-2 sf-no-children"><a href="/kpi_about" title="Загальна інформація про Національний технічний університет України" class="sf-depth-2">Університет сьогодні</a></li><li id="main-menu-link-contente361b962-2b52-4f74-a953-d6053fa8ed1a" class="sf-depth-2 sf-no-children"><a href="/information" title="Інформація КПІ ім.Ігоря Сікорського, яка підлягає обов&#039;язковому оприлюдненню" class="sf-depth-2">Офіційна інформація</a></li><li id="main-menu-link-content9220e450-46d4-4115-8a5f-1667615a70fc" class="sf-depth-2 sf-no-children"><a href="/kpi_faculty" title="Інститути та факультети КПІ ім. Ігоря Сікорського" class="sf-depth-2">Інститути &amp; факультети</a></li><li id="main-menu-link-content88acf53a-2311-4155-80f2-8ca8477c7801" class="sf-depth-2 sf-no-children"><a href="/almamater" title="Історія КПІ ім. Ігоря Сікорського та його підрозділів" class="sf-depth-2">Історія</a></li><li id="main-menu-link-contentad13b5e7-e29a-4976-92c6-25c3af557b6a" class="sf-depth-2 sf-no-children"><a href="/kpi_links" title="Департамент міжнародного співробітництва КПІ ім. Ігоря Сікорського" class="sf-depth-2">Міжнародне співробітництво</a></li><li id="main-menu-link-content70c0939b-6c4d-4c65-a35f-21752133f26f" class="sf-depth-2 sf-no-children"><a href="/location" title="Територіальне розміщення університету, карта, мапа, схеми доїзду до корпусів КПІ ім. Ігоря Сікорського" class="sf-depth-2">Адреса та карта</a></li><li id="main-menu-link-contentb5d8c053-5635-4a9c-b87d-328ae693b78b" class="sf-depth-2 sf-no-children"><a href="/union" title="Профспiлкові організації КПІ ім. Ігоря Сікорського, професійні спілки університету" class="sf-depth-2">Профспiлкові організації</a></li><li id="main-menu-link-contentb2df79a3-f6eb-4e43-9f8a-16740471d130" class="sf-depth-2 sf-no-children"><a href="/prozorro" class="sf-depth-2">Публічні закупівлі</a></li><li id="main-menu-link-content4e7a5c30-974f-4e12-b97e-d5f7edea3414" class="sf-depth-2 sf-no-children"><a href="/anticor" title="Лінія для повідомлень про корупційні правопорушення з боку посадових осіб та працівників КПІ ім. Ігоря Сікорського" class="sf-depth-2">Антикорупційні заходи</a></li><li id="main-menu-link-contentdc9db42f-e424-4f9c-9441-1247c7802dca" class="sf-depth-2 sf-no-children"><a href="/offices" title="Загальноуніверситетські новини КПІ ім. Ігоря Сікорського" class="sf-depth-2">Університетські новини</a></li></ul></li><li id="main-menu-link-content6db97e12-a880-4444-b1d4-d20cb96193ae" class="sf-depth-1 menuparent"><a href="/admission" title="Інформація для вступників в КПІ ім. Ігоря Сікорського" class="sf-depth-1 menuparent">Вступ</a><ul><li id="main-menu-link-content0cbdb7c7-907d-4f27-8390-f9c90ebb7ff2" class="sf-depth-2 sf-no-children"><a href="/work" title="Інформація про приймальну комісію КПІ ім. Ігоря Сікорського" class="sf-depth-2">Приймальна комісія</a></li><li id="main-menu-link-content9e2f1a94-a9f6-4581-9cca-76350cf83169" class="sf-depth-2 sf-no-children"><a href="/rule-admission" title="Правила прийому до КПІ ім. Ігоря Сікорського" class="sf-depth-2">Правила прийому</a></li><li id="main-menu-link-content178c4b65-2e32-4f03-a64d-9b6a7363c436" class="sf-depth-2 sf-no-children"><a href="/opendoors" title="Дні відкритих дверей в КПІ ім. Ігоря Сікорського, день відкритих дверей на рівних факультетах та інститутах" class="sf-depth-2">Дні відкритих дверей</a></li><li id="main-menu-link-content4ddd7068-4af6-4ffa-a5ab-047041320466" class="sf-depth-2 sf-no-children"><a href="/applicant" title="Інформація для вступників на ступінь вищої освіти «бакалавр» в КПІ ім. Ігоря Сікорського" class="sf-depth-2">Вступ на 1 курс</a></li><li id="main-menu-link-content749c0d04-c46b-44a4-918d-ea12abbd3340" class="sf-depth-2 sf-no-children"><a href="/master" title="нформація для вступників на ступінь вищої освіти «магістр» в КПІ ім. Ігоря Сікорського" class="sf-depth-2">Вступ на 5 курс</a></li><li id="main-menu-link-content596ad08b-7fe6-4f61-95e1-af049fd110df" class="sf-depth-2 sf-no-children"><a href="/phd" title="Інформація для вступників для здобуття ступеня доктора філософії та доктора наук. Аспірантура та докторантура в КПІ ім. Ігоря Сікорського" class="sf-depth-2">Аспірантура &amp; Докторантура</a></li><li id="main-menu-link-contentbb0e345b-0f56-4abc-b2c0-c78083f6fb4e" class="sf-depth-2 sf-no-children"><a href="/foreigners" class="sf-depth-2">Вступ іноземних громадян</a></li><li id="main-menu-link-contenta084096d-bc7d-406a-bea0-6f8e5b5c7e78" class="sf-depth-2 sf-no-children"><a href="/training" title="Післядипломна освіта, підвищення кваліфікації, друга освіта та наступна освіта в КПІ ім. Ігоря Сікорського" class="sf-depth-2">Післядипломна освіта</a></li></ul></li><li id="main-menu-link-content92129f0c-fb6a-4f10-b4c2-7cf5af8890e0" class="sf-depth-1 menuparent"><a href="/education" class="sf-depth-1 menuparent">Освіта</a><ul><li id="main-menu-link-contenta3937217-2bb9-4990-98ce-6b35fe1a7a1c" class="sf-depth-2 sf-no-children"><a href="/specialities" title="Перелік освітніх програм КПІ ім. Ігоря Сікорського" class="sf-depth-2">Освітні програми</a></li><li id="main-menu-link-contentf35a53e5-dc0f-4b02-8a6d-ac2d9bfd23bb" class="sf-depth-2 sf-no-children"><a href="/regulations" title="Положення про організацію освітнього процесу" class="sf-depth-2">Організація навчання</a></li><li id="main-menu-link-contentf9cdd3b5-519b-4458-99e2-0910b566a4cb" class="sf-depth-2 sf-no-children"><a href="/year" title="Графік навчального процесу в КПІ ім. Ігоря Сікорського на поточний навчальний рік" class="sf-depth-2">Академічний календар</a></li><li id="main-menu-link-contente601c361-b57c-43a1-a7cb-7d9b588da066" class="sf-depth-2 sf-no-children"><a href="/bologna" title="Болонський процес" class="sf-depth-2">Болонський процес</a></li><li id="main-menu-link-content90db3877-2d22-44f9-93d6-135e3154c7c7" class="sf-depth-2 sf-no-children"><a href="http://login.kpi.ua" title="Електронний кампус" class="sf-depth-2 sf-external">Електронний кампус</a></li><li id="main-menu-link-content404d6607-00dd-4f83-8b52-1b4da997a7e4" class="sf-depth-2 sf-no-children"><a href="/certification" title="Проведення атестації студентів та семестрового контролю" class="sf-depth-2">Атестації студентів</a></li><li id="main-menu-link-contentcae9d45a-6358-4af3-b6d9-cbe70bbe898f" class="sf-depth-2 sf-no-children"><a href="/monitoring" title="Комплексний моніторинг якості підготовки фахівців - Контроль та оцінка якості навчання" class="sf-depth-2">Комплексний моніторинг</a></li><li id="main-menu-link-content1fcccd1c-2fe5-4441-8a65-849db26a66f5" class="sf-depth-2 sf-no-children"><a href="/education_department" class="sf-depth-2">Новини освіти</a></li></ul></li><li id="main-menu-link-contentdda29401-8b0b-40a4-9f26-782795d4391e" class="sf-depth-1 menuparent"><a href="/science" class="sf-depth-1 menuparent">Наука та інновації</a><ul><li id="main-menu-link-content3d474f24-25f1-44e6-b8d6-d4be18151a73" class="sf-depth-2 sf-no-children"><a href="/reward" class="sf-depth-2">Лауреати державних премій</a></li><li id="main-menu-link-content2affba8f-fceb-4091-a662-c111b337619a" class="sf-depth-2 sf-no-children"><a href="/research" title="Перелік напрямів фундаментальних та прикладних наукових досліджень" class="sf-depth-2">Напрями досліджень</a></li><li id="main-menu-link-content2b207242-1ee2-494f-a2b6-bf4d57ca79d8" class="sf-depth-2 sf-no-children"><a href="/publication" title="Наукові видання НТУУ КПІ" class="sf-depth-2">Наукові видання</a></li><li id="main-menu-link-content354257ba-c70e-4da2-8cb2-62f54f255435" class="sf-depth-2 sf-no-children"><a href="/norma" class="sf-depth-2">Конкурси НДЧ</a></li><li id="main-menu-link-content37b5aa10-f03c-4572-bc70-c3576ad3c04a" class="sf-depth-2 sf-no-children"><a href="/seminar" title="Конференції, семінари, форуми, з&#039;їзди" class="sf-depth-2">План наукових заходів</a></li><li id="main-menu-link-content0d31b284-45d3-40b9-8549-7bc35abeea7b" class="sf-depth-2 sf-no-children"><a href="/ecoino" title="Інноваційна екосистема Sikorsky Challenge Національного технічного університету України Київський політехнічний інститут (INESC)" class="sf-depth-2">Інноваційна екосистема</a></li><li id="main-menu-link-contentf02b4084-a1ca-4c41-9ef6-e301b6bde8e5" class="sf-depth-2 sf-no-children"><a href="/rmv" title="Рада молодих вчених НТУУ КПІ" class="sf-depth-2">Рада молодих вчених</a></li><li id="main-menu-link-contente2347ab1-f50b-40a7-8f97-d0e22278fbc5" class="sf-depth-2 sf-no-children"><a href="/department" title="Наукові підрозділи НТУУ «КПІ»: НДІ, НЦ, НТЦ, КБ, спеціалізовані відділи" class="sf-depth-2">Наукові підрозділи</a></li><li id="main-menu-link-contentb722aad3-8ea6-4a6e-942a-5fa49a38896c" class="sf-depth-2 sf-no-children"><a href="/science_department" class="sf-depth-2">Новини науки</a></li></ul></li><li id="main-menu-link-content6c1a47cc-4ae3-4fe5-bf7f-7878b0b3a06c" class="sf-depth-1 menuparent"><a href="/educate_department" title="Департамент навчально-виховної роботи" class="sf-depth-1 menuparent">Студентське життя</a><ul><li id="main-menu-link-contentc2890117-612b-42f1-afac-bcde894093dd" class="sf-depth-2 sf-no-children"><a href="/vnvr" title="Відділ навчально-виховної роботи" class="sf-depth-2">Навчання</a></li><li id="main-menu-link-contente43094c8-e82e-462d-bb36-e6bc7ca6cd11" class="sf-depth-2 sf-no-children"><a href="/stipend" title="Стипендії, персональні та академічні стипендії, соціальна допомога, стипендіальне та соціальне забезпечення студентів" class="sf-depth-2">Стипендія</a></li><li id="main-menu-link-contentc71ec276-6218-4112-b4a8-cdcc4eb98af2" class="sf-depth-2 sf-no-children"><a href="/vam" title="Інформація про відділ академічної мобільності" class="sf-depth-2">Академічна мобільність</a></li><li id="main-menu-link-content58e84010-19c9-4c37-a48f-c3788e030230" class="sf-depth-2 sf-no-children"><a href="/vors" title="Позанавчальний процес" class="sf-depth-2">Гуртки. Олімпіади. Проєкти</a></li><li id="main-menu-link-content9474022e-3697-4368-863f-96a351736704" class="sf-depth-2 sf-no-children"><a href="/students/sec" title="Відділ сприяння працевлаштуванню та професійного розвитку" class="sf-depth-2">Кар&#039;єра</a></li><li id="main-menu-link-contentafb764e4-6e71-4b1c-a6b3-8924e17e2e84" class="sf-depth-2 sf-no-children"><a href="/web_sss" title="Соціально-психологічна підтримка студентів та аспірантів КПІ" class="sf-depth-2">Соціально-психологічна підтримка</a></li><li id="main-menu-link-contentbfb5b1b4-a60c-4a8c-9a2b-bac263614fc5" class="sf-depth-2 sf-no-children"><a href="/cks" title="Центр консолідації студентів (ЦКС)" class="sf-depth-2">ЦКС</a></li><li id="main-menu-link-content780054c3-0ed8-4094-92b9-ffc3905cd685" class="sf-depth-2 sf-no-children"><a href="/ckm" title="Студентське дозвілля: культура і мистецтво" class="sf-depth-2">Культура</a></li><li id="main-menu-link-content96fac4d6-d2a3-4ef4-9026-84e55fb9b93e" class="sf-depth-2 sf-no-children"><a href="/athletics" class="sf-depth-2">Спорт. Відпочинок. Харчування</a></li><li id="main-menu-link-contentddb2cecf-9691-4619-9a24-457bb3e6e583" class="sf-depth-2 sf-no-children"><a href="/health" title="Медичне обслуговування та медицина в КПІ" class="sf-depth-2">Медзабезпечення</a></li><li id="main-menu-link-contentbec46c2a-50e8-458c-aa6c-cc259f81463d" class="sf-depth-2 sf-no-children"><a href="/vmv" class="sf-depth-2">Військовий облік</a></li><li id="main-menu-link-content96b4def9-8257-4af3-a65b-4422e7c0e653" class="sf-depth-2 sf-no-children"><a href="/web_studmisto" title="Студмісто - Студентське містечко КПІ ім.Ігоря Сікорського, гуртожитки університету, документи з поселення та проживання" class="sf-depth-2">Студмістечко</a></li><li id="main-menu-link-contentadc700dd-3ff8-4774-80b8-e3d9f8539dbd" class="sf-depth-2 sf-no-children"><a href="/organizations" title="Студентські організації КПІ" class="sf-depth-2">Студорганізації</a></li><li id="main-menu-link-content3d918faf-57a8-4073-b59d-40808f664117" class="sf-depth-2 sf-no-children"><a href="/kpi_events" title="Традиційні заходи та події КПІ" class="sf-depth-2">Традиційні заходи</a></li></ul></li>
+</ul>
+
+    </div>
+  </div>
+<div class="search-block-form google-cse block block-search container-inline" data-drupal-selector="search-block-form" id="block-poshukovaforma" role="search">
+  
+    
+    <div class="content container-inline">
+        <form action="/search/google" method="get" id="search-block-form" accept-charset="UTF-8" class="search-form search-block-form">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Введіть терміни, які необхідно знайти." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" />
+</div>
+
+</form>
+
+  
+  </div>
+</div>
+<div id="block-languagesimple" class="block block-block-content block-block-content8b0778ee-1c2d-4672-aa0b-efa69750f1ea">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul class="language-switcher-locale-url"><li class="uk first active"><a href="/" class="language-link active" lang="uk" xml:lang="uk">Українська</a></li>
+<li class="ru"><a href="/ru" class="language-link" lang="ru" xml:lang="ru">Русский</a></li>
+<li class="en last"><a href="/en" class="language-link" lang="en" xml:lang="en">English</a></li>
+</ul></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+	   </div>
+	   </div>
+  
+    <header id="header" class="header" role="banner" aria-label="Верхній колонтитул сайту">
+      <div class="section layout-container clearfix">
+          <div class="clearfix region region-header">
+    <div id="block-sitebranding" class="clearfix site-branding block block-system block-system-branding-block">
+  
+    
+        <a href="/" title="Головна" rel="home" class="site-branding__logo">
+      <img src="/files/logo.png" alt="Головна" />
+    </a>
+        <div class="site-branding__text">
+                    <div class="site-branding__slogan">Національний технічний університет України</br>"Київський політехнічний інститут імені Ігоря Сікорського"</div>
+          </div>
+  </div>
+<div id="block-ikonkipravoruchvidlogotipu" class="block block-block-content block-block-content82a1d2a3-d978-4f09-bc21-a0aad61cf459">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="header-icons"><a href="#rozkladModal" class="icon rozklad" title="Розклад КПІ для студентів та викладачів"><i></i>Розклад</a><a href="#libraModal" class="icon libra" title="Бібліотечні ресурси КПІ"><i></i>Бібліотека</a><a href="#ecampusModal" class="icon ecampus" title="Електронний кампус КПІ"><i></i>Кампус</a><a href="/news" class="icon kpinews" title="Новини КПІ"><i></i>Новини</a><a href="#mediaModal" class="icon wcams" title="Медіаресурси КПІ"><i></i>Медіа</a><a href="http://relax.kpi.ua/" class="icon relax" title="Відпочинок на базах та в пансіонатах КПІ для студентів, викладачів та співробітників"><i></i>Відпочинок</a><a href="http://hostelpay.kpi.ua/" class="icon hostelpay" title="Оплата за гуртожиток КПІ"><i></i>Оплата</a></div>
+<div id="rozkladModal" class="modalDialog">
+<div>
+		<a href="#close" title="Close" class="close">X</a>
+<div class="modalText">
+<h3>Департамент навчальної роботи</h3>
+<p><a href="http://rozklad.kpi.ua/Schedules/ScheduleGroupSelection.aspx"> Розклад занять</a></p>
+<p><a href="http://rozklad.kpi.ua/Schedules/SessionScheduleGroupSelection.aspx"> Розклад сесії</a></p>
+<p><a href="http://rozklad.kpi.ua/Schedules/LecturerSelection.aspx"> Розклад для викладачів</a></p>
+</div>
+</div>
+</div>
+<div id="ecampusModal" class="modalDialog">
+<div>
+		<a href="#close" title="Close" class="close">X</a>
+<div class="modalText">
+<h3>Інформаційні ресурси</h3>
+<p><a href="https://ecampus.kpi.ua/"> Електронний кампус</a></p>
+<p><a href="https://directory.kpi.ua/"> Інформаційні ресурси</a></p>
+<p><a href="https://intellect.kpi.ua/"> Викладачі КПІ</a></p>
+<p><a href="https://github.com/kpi-ua"> GitHub репозиторій</a></p>
+</div>
+</div>
+</div>
+<div id="mediaModal" class="modalDialog">
+<div>
+		<a href="#close" title="Close" class="close">X</a>
+<div class="modalText">
+<h3>Медіа-ресурси КПІ</h3>
+<p><a href="/webcam">Web-камери</a>  </p>
+<p><a href="https://r.kpi.ua/">Радіо</a></p>
+<p><a href="https://www.youtube.com/kpiua">Відеорепортажі КПІ</a></p>
+</div>
+</div>
+</div>
+<div id="libraModal" class="modalDialog">
+<div>
+		<a href="#close" title="Close" class="close">X</a>
+<div class="modalText">
+<h3>Бібліотека</h3>
+<p><a href="http://library.kpi.ua">Сайт бібліотеки</a>  </p>
+<p><a href="http://opac.kpi.ua">Каталог</a>  </p>
+<p><a href="http://ela.kpi.ua">Електронний архів</a>  </p>
+</div>
+</div>
+</div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+       
+      </div>
+    </header>
+            <div id="main-wrapper" class="layout-main-wrapper layout-container clearfix">
+      <div id="main" class="layout-main clearfix">
+        
+        <main id="content" class="column main-content" role="main">
+          <section class="section">
+            <a id="main-content" tabindex="-1"></a>
+              <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+        <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Рядок навіґації</h2>
+    <ol>
+          <li>
+                  <a href="/">Головна</a>
+              </li>
+        </ol>
+  </nav>
+
+    </div>
+  </div>
+<div id="block-pagetitle" class="block block-core block-page-title-block">
+  
+    
+      <div class="content">
+      
+  <h1 class="title page-title"><span class="field field--name-title field--type-string field--label-hidden">Положення про поточний, календарний та семестровий контроль результатів навчання в КПІ ім. Ігоря Сікорського</span>
+</h1>
+
+
+    </div>
+  </div>
+<div id="block-bartik-system-main" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+<article role="article" about="/index.php/document_control" class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+          
+      </header>
+  <div class="node__content clearfix">
+    
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="author"><a href="https://document.kpi.ua/2020_7-137">Додаток 1 до наказу № 7-137 від 05.08.2020 р.</a></p>
+<h2>1. ЗАГАЛЬНІ ПОЛОЖЕННЯ</h2>
+<p>1.1. Положення про поточний, календарний та семестровий контроль результатів навчання (далі - Положення) в КПІ ім. Ігоря Сікорського (далі -Університет) регламентує моніторинг і основні контрольні заходи для визначення рівня набутих здобувачами вищої освіти (далі -здобувачі) компетентностей, знань, умінь, їх відповідності вимогам освітніх програм на певному рівні вищої освіти та визначає порядок ліквідації академічних заборгованостей.</p>
+<p>1.2. В освітньому процесі Університету використовуються такі основні види контрольних заходів: вхідний, ректорський, поточний, календарний та підсумковий (семестровий контроль та атестація) контроль.</p>
+<p>1.3. Вхідний контроль проводиться на початку викладання нової навчальної дисципліни з метою визначення готовності здобувачів до її засвоєння. За результатами вхідного контролю розробляються заходи з надання індивідуальної допомоги здобувачам, корегування навчального процесу тощо.</p>
+<p>1.4. Ректорський контроль проводиться відповідно до Положення про ректорський контроль якості залишкових знань студентів Університету з метою системного вивчення природи освітнього процесу на факультетах, в інститутах і вироблення на цій основі науково-методичних рекомендацій щодо формування комплексу дій із керування якістю освітнього процесу.</p>
+<p>1.5. Поточний контроль проводиться впродовж семестру з метою забезпечення зворотного зв'язку між науково-педагогічними працівниками (далі - НПП) і здобувачами у процесі навчання та для перевірки рівня теоретичної й практичної підготовки здобувачів на кожному етапі вивчення навчальної дисципліни (освітнього компонента).</p>
+<p>1.6. Календарний контроль проводиться з метою моніторингу виконання здобувачами індивідуальних навчальних планів згідно з графіком навчального процесу.</p>
+<p>1.7. Семестровий контроль проводиться для встановлення рівня досягнення здобувачами програмних результатів навчання з навчальної дисципліни (освітнього компонента), як правило, за семестр. Семестровий контроль проводиться відповідно до навчального плану у вигляді заліку або екзамену в терміни, встановлені графіком навчального процесу.</p>
+<p>1.8. Атестація здобувачів проводиться відповідно до Положення про екзаменаційну комісію та атестацію здобувачів вищої освіти в КПІ ім. Ігоря Сікорського.</p>
+<p>1.9. Результати контрольних заходів, визначених п. 1.5-1.7 цього Положення, доступні до ознайомлення авторизованим користувачам в їх особистих кабінетах автоматизованої інформаційної системи «Електронний кампус» (далі - Електронний кампус).</p>
+<p>1.10. Оцінювання результатів поточного, календарного та семестрового контролів здійснюється згідно з рейтинговою системою оцінювання результатів навчання здобувачів (далі - РСО) з певної навчальної дисципліни (освітнього компонента), яка містить критерії оцінювання, що формуються з урахуванням вимог Положення про систему оцінювання результатів навчання в КПІ ім. Ігоря Сікорського.</p>
+<p>1.11. В Положенні наступні терміни та скорочення вживаються у значенні:</p>
+<ul><li>Викладач - НПП, який відповідає за проведення навчальних занять, здійснення заходів поточного контролю і ведення модуля «Поточний контроль» в Електронному кампусі з усіх навчальних дисциплін (освітніх компонентів), передбачених його планом навчального навантаження.</li>
+<li>Екзаменатор - викладач, який за рішенням кафедри відповідає за проведення й оцінювання результатів календарного та/або семестрового контролів.</li>
+<li>Екзамен - вид семестрового контролю для оцінювання рівня засвоєння здобувачем теоретичного та практичного матеріалу з навчальної дисципліни (освітнього компонента), що проводиться в період екзаменаційної сесії за затвердженим розкладом.</li>
+<li>Залік - вид семестрового контролю, який планується за відсутності екзамену і передбачає можливість однозначно визначити рівень засвоєння здобувачем теоретичного та практичного матеріалу з навчальної дисципліни (освітнього компонента) за результатами поточного контролю навчання здобувача упродовж семестру. Окремим видом заліку є захист курсового проекту/роботи або захист звіту практики.</li>
+<li>РСО - рейтингова система оцінювання результатів навчання здобувачів з певної навчальної дисципліни (освітнього компонента), за якою передбачено семестровий контроль, є складовою силабусу - робочої програми навчальної дисципліни (освітнього компонента).</li>
+</ul><p>Інші поняття вживаються у значеннях, що визначені в Освітньому глосарії КПІ ім. Ігоря Сікорського.</p>
+<h2>2. ПОТОЧНИЙ КОНТРОЛЬ</h2>
+<p>2.1. Результати поточного контролю регулярно заносяться викладачем у модуль «Поточний контроль» Електронного кампусу.</p>
+<p>2.2. Результати поточного контролю використовуються як викладачем - для коригування методів і засобів навчання, так і здобувачем - для планування самостійної роботи.</p>
+<p>2.3. Форми проведення поточного контролю визначаються силабусом -робочою програмою навчальної дисципліни (освітнього компонента).</p>
+<h2>3. КАЛЕНДАРНИЙ КОНТРОЛЬ</h2>
+<p>3.1. Календарний контроль проводиться на першому (бакалаврському) та другому (магістерському) рівнях вищої освіти.</p>
+<p>3.2. Календарний контроль проводиться з кожної навчальної дисципліни (освітнього компонента), як правило, на 7-8 та 14-15 тижнях кожного семестру навчання здобувачів, і реалізується шляхом визначення рівня відповідності поточних досягнень (рейтингу) здобувача встановленим і визначеним в РСО критеріям.</p>
+<p>3.3. Умовою отримання позитивної оцінки з календарного контролю з навчальної дисципліни (освітнього компонента) є значення поточного рейтингу здобувача не менше, ніж 50 % від максимально можливого на час проведення такого контролю.</p>
+<p>3.4. Умовою отримання позитивної оцінки з календарного контролю за освітнім компонентом «курсовий проект» або «курсова робота» є дотримання здобувачем графіку виконання проекту/роботи, який визначено силабусом - робочою програмою курсового проекту/роботи.</p>
+<p>3.5. Результати календарного контролю заносяться екзаменатором у модуль «Календарний контроль» Електронного кампусу.</p>
+<p>3.6. Незадовільний результат двох календарних контролів з освітнього компонента не може бути підставою для недопущення здобувача до семестрового контролю з цього освітнього компонента, якщо здобувач до початку семестрового контролю виконав усі умови допуску, які передбачені РСО.</p>
+<h2>4. СЕМЕСТРОВИЙ КОНТРОЛЬ</h2>
+<p>4.1. Семестровий контроль проводить екзаменатор. За наявності поважних причин у екзаменатора (стан здоров'я, відрядження тощо), завідувач кафедри може призначати екзаменатором іншого НПП для проведення запланованого заходу семестрового контролю.</p>
+<p>4.2. У випадку виникнення конфліктної ситуації здобувача (здобувачів) з екзаменатором до проведення семестрового контролю, за обґрунтованою заявою здобувача (колективною заявою здобувачів), декан факультету / директор інституту створює комісію з проведення запланованого заходу семестрового контролю.</p>
+<p>4.3. Форма проведення семестрового контролю (усна, письмова, комбінована, тестування або захист курсового проекту/роботи, практики), перелік тем та питань які виносяться на семестровий контроль, критерії оцінювання -визначаються силабусом - робочою програмою навчальної дисципліни (освітнього компонента).</p>
+<p>4.4. Здобувач не допускається до семестрового контролю з певної навчальної дисципліни (освітнього компонента), якщо він не виконав визначені РСО</p>
+<p>умови допуску. У такому випадку екзаменатор у відомості семестрового контролю робить запис «не допущений».</p>
+<p>4.5. Недопущення здобувана до семестрового контролю з одного освітнього компонента не може бути причиною його недопущення до семестрового контролю з іншого.</p>
+<p>4.6. Здобувай, який був допущений, але не з'явився на екзамен, захист курсового проекту/роботи або був усунений від участі в заході семестрового контролю, вважається таким, що не пройшов семестровий контроль з навчальної дисципліни (освітнього компонента) і має академічну заборгованість. У такому випадку екзаменатор у відомості семестрового контролю робить запис «не з'явився» або «усунений».</p>
+<p>4.7. Результати семестрового контролю обов'язково обговорюються на засіданнях кафедр, вчених рад інститутів/факультетів та Методичної ради Університету. За підсумками обговорення можуть ухвалюватися рішення щодо удосконалення якості освітнього процесу в Університеті.</p>
+<h3>Екзамени</h3>
+<p>4.8. Розклад екзаменаційної сесії затверджується директором інституту/деканом факультету та оприлюднюється на сайті Університету rozklad.kpi.ua не пізніше, ніж за місяць до її початку.</p>
+<p>4.9. На підготовку здобувачів до кожного екзамену планується не менше 2 днів, залежно від обсягу навчальної дисципліни (освітнього компонента).</p>
+<p>4.10. Перед кожним екзаменом обов'язково, відповідно до розкладу, проводиться консультація, на якій екзаменатор має довести до відома здобувачів правила проведення екзамену і перелік матеріалів якими дозволено користуватися під час екзамену, нагадати критерії оцінювання, повідомити здобувачам їх стартові рейтинги за результатами роботи в семестрі, оголосити недопущених до екзамену (за наявності) і відповісти на запитання здобувачів.</p>
+<p>4.11. До проведення екзамену можуть бути залучені НПП, які проводили в навчальній групі заняття з цієї дисципліни (освітнього компонента).</p>
+<h3>Заліки</h3>
+<p>4.12. Залік проводиться в період останніх двох тижнів теоретичного навчання у семестрі, як правило, на останньому за розкладом занятті з відповідної навчальної дисципліни (освітнього компонента).</p>
+<p>4.13. Здобувач отримує позитивну залікову оцінку за результатами роботи в семестрі, якщо має підсумковий рейтинг за семестр не менше 60 балів та виконав умови допуску до семестрового контролю, які визначені РСО.</p>
+<p>4.14. Якщо здобувач виконав умови РСО щодо допуску до семестрового контролю, але має підсумковий рейтинг за семестр менше 60 балів або хоче підвищити поточну оцінку з відповідної навчальної дисципліни (освітнього компонента), він виконує залікову контрольну роботу</p>
+<p>(проходить залікову співбесіду), як правило, на останньому за розкладом аудиторному занятті з відповідної навчальної дисципліни (освітнього компонента).</p>
+<p>4.15. Критерії оцінювання залікової контрольної роботи (залікової співбесіди) та принцип визначення підсумкової оцінки визначаються РСО.</p>
+<h3>Захисти курсових проектів/робіт та звітів з практик</h3>
+<p>4.16. Для оцінки результатів навчання за такими освітніми компонентами як курсовий проект/робота або практика, випусковою кафедрою створюється комісія з проведення семестрового контролю.</p>
+<p>4.17. Залікова оцінка з курсової роботи/проекту або практики виставляється за результатами захисту проєкту/роботи/звіту перед комісією з проведення семестрового контролю.</p>
+<p>4.18. Захисти курсових проектів/робіт проводяться в період останніх двох тижнів теоретичного навчання в семестрі, до початку екзаменаційної сесії.</p>
+<p>4.19. Захисти звітів за результатами проходження практики проводяться впродовж 10 днів з дати закінчення практики, встановленої графіком навчального процесу.</p>
+<p>4.20. Дати проведення захистів встановлюються завідувачем кафедри.</p>
+<h2>5. МЕТОДИЧНЕ ЗАБЕЗПЕЧЕННЯ СЕМЕСТРОВОГО КОНТРОЛЮ</h2>
+<p>5.1. Засоби діагностики р/]я семестрового контролю (екзаменаційні білети, контрольні завдання, тести тощо) розробляються ц/\я всіх навчальних дисциплін (освітніх компонентів), за винятком курсових проєктів/робіт та практик.</p>
+<p>5.2. Засоби діагностики і перелік матеріалів, користування якими дозволяється здобувачу під час семестрового контролю затверджуються на засіданні кафедри не пізніше, ніж за місяць до початку семестрового контролю.</p>
+<p>5.3. Кількість екзаменаційних білетів має перевищувати кількість здобувачів у навчальній групі щонайменше на 5.</p>
+<p>5.4. Кількість варіантів завдань залікової контрольної роботи має забезпечити самостійність виконання завдання кожним здобувачем.</p>
+<p>5.5. Засоби діагностики мають відповідати таким вимогам:</p>
+<ul><li>запитання і завдання сформульовані однозначно та зрозуміло з використанням термінології, яка застосовується під час викладання навчальної дисципліни (освітнього компонента);</li>
+<li>складність білетів для усного екзамену (залікової співбесіди) є приблизно однаковою і дозволяє здобувачу за час, відведений для відповіді (до 20 хвилин), глибоко та повно розкрити зміст усіх запитань;</li>
+<li>складність та трудомісткість білетів для письмового екзамену (залікової контрольної роботи) є приблизно однаковою і дозволяє здобувачу за час відведений для виконання (60-90 хвилин), глибоко та повно розкрити зміст усіх завдань.</li>
+</ul><p>5.6. Критерії оцінювання відповіді здобувана мають відповідати запланованому рівню досягнення програмних результатів навчання (наприклад, за таксономією Блума-Андерсон).</p>
+<h2>6. РЕГЛАМЕНТ ПРОВЕДЕННЯ СЕМЕСТРОВОГО КОНТРОЛЮ</h2>
+<p>6.1. Під час проведення семестрового контролю екзаменатор повинен мати:</p>
+<ul><li>засоби діагностики;</li>
+<li>затверджений перелік матеріалів, користування якими дозволяється здобувану підчас семестрового контролю;</li>
+<li>рейтингову систему оцінювання результатів навчання здобувачів з навчальної дисципліни (освітнього компонента);</li>
+<li>рейтинг-лист семестрової успішності студентів/аспірантів навчальної групи;</li>
+<li>відомість семестрового контролю.</li>
+</ul><p>6.2. Тривалість усного екзамену в навчальній групі не повинна перевищувати 6 годин, а письмового - 3 години.</p>
+<p>6.3. Під час проведення усного екзамену в аудиторії одночасно може перебувати не більше 6 здобувачів, а для підготовки до відповіді здобувачу має надаватися не менше ЗО хвилин.</p>
+<p>6.4. На екзаменах здобувачі зобов'язані надавати залікову книжку, а у разі її відсутності - документ, що посвідчує особу. В іншому разі, здобувач до екзамену не допускається.</p>
+<p>6.5. Присутність на заході семестрового контролю сторонніх осіб без дозволу ректора, проректора, директора інституту, декана факультету або завідувача кафедри не допускається.</p>
+<p>6.6. Здійснюючи семестровий контроль екзаменатор повинен:</p>
+<ul><li>дотримуватися розкладу екзаменів (дата, час початку екзамену, аудиторія);</li>
+<li>використовувати тільки затверджені засоби діагностики;</li>
+<li>у разі усної форми контролю оголошувати оцінку одразу після закінчення опитування здобувача і проставляти її до відомості та залікової книжки;</li>
+<li>у разі письмової форми контролю оголошувати оцінки і проставляти їх до відомості та в залікову книжку здобувача не пізніше наступного дня після контрольного заходу.</li>
+</ul><p>6.7. Здійснюючи семестровий контроль екзаменатор має право:</p>
+<ul><li>не дозволити сторонній особі (яка не має дозволу ректора, проректора, директора інституту/декана факультету або завідувача кафедри) бути присутньою на контрольному заході;</li>
+<li>ставити додаткові запитання в межах силабусу - робочої програми навчальної дисципліни (освітнього компонента) для більш об'єктивної оцінки рівня підготовки здобувача;</li>
+<li>усунути здобувана від складання екзамену/заліку, якщо було виявлено факт порушення принципів академічної доброчесності або морально-етичних норм поведінки.</li>
+</ul><p>6.8. У разі усунення здобувана з заходу семестрового контролю, екзаменатор у відомості робить запис «усунений», і подає службову на ім'я декана/директора з викладенням причин усунення.</p>
+<p>6.9. Відмова здобувана виконувати завдання семестрового контролю оцінюється як незадовільна відповідь.</p>
+<h2>7. ОФОРМЛЕННЯ РЕЗУЛЬТАТІВ СЕМЕСТРОВОГО КОНТРОЛЮ</h2>
+<p>7.1. Відомості семестрового контролю (Додаток А) формуються деканатом, як правило, в модулі «Сесія» Електронного кампусу або в автоматизованій системі «Деканат».</p>
+<p>7.2. Екзаменатор вносить результати семестрового контролю (оцінки) до відомості семестрового контролю та залікової книжки здобувана.</p>
+<p>7.3. У відомості семестрового контролю навпроти прізвища конкретного здобувана екзаменатор проставляє оцінки за 100-бальною та університетською шкалою або робить відповідні записи:</p>
+<table border="0" align="center" cellpadding="2" cellspacing="2"><tr><th>100-бальна шкала оцінок </th>
+<th>Університетська шкала оцінок </th>
+</tr><tr><td>95...100 </td>
+<td>Відмінно </td>
+</tr><tr><td>85...94 </td>
+<td>Дуже добре </td>
+</tr><tr><td>75...84 </td>
+<td>Добре </td>
+</tr><tr><td>65...74 </td>
+<td>Задовільно </td>
+</tr><tr><td>60...64 </td>
+<td>Достатньо </td>
+</tr><tr><td>Менше 60 </td>
+<td>Незадовільно </td>
+</tr><tr><td>Невиконання умов допуску до семестрового контролю </td>
+<td>Не допущений </td>
+</tr><tr><td>Порушення принципів академічної доброчесності або морально-етичних норм поведінки </td>
+<td>Усунений</td>
+</tr></table><p>7.4. У залікову книжку здобувана екзаменатор вносить оцінку тільки у разі позитивного результату семестрового контролю, з вказанням кількості кредитів ЄКТС, навчальних годин (відповідно до навчального плану), оцінки за 100-бальною та університетською шкалою.</p>
+<p>7.5. Оцінки до відповідного розділу АС «Деканат», журналів обліку успішності та навчальних карток здобувачів заносяться відповідальними особами деканату.</p>
+<p>7.6. У разі необхідності внесення виправлення до паперового екземпляру відомості семестрового контролю, робиться напис «виправленому вірити» та ставиться підпис екзаменатора і дата.</p>
+<p>7.7. Для внесення змін до відомості, яка заблокована в Електронному кампусі (автоматично  за  кінцевою  датою  блокування  або  особисто</p>
+<p>екзаменатором), її розблокування здійснюється директором інституту /деканом факультету на підставі звернення екзаменатора з поясненням причин внесення правок.</p>
+<p>7.8. Відомість семестрового контролю в особистому кабінеті Електронного кампусу екзаменатор заповнює не пізніше встановленої дати блокування відомості: для заліків - це останній день семестру до початку екзаменаційної сесії, для екзаменів - наступний день після проведення екзамену. Власноручне блокування екзаменатором відомості в Електронному кампусі є обов'язковим, як підтвердження того, що всі результати семестрового контролю внесені і передані до деканату.</p>
+<p>7.9. Відповідальність за достовірність даних, внесених до відомості та залікових книжок здобувачів, несе екзаменатор, а за дані, внесені до АС «Деканат», журналів обліку успішності та навчальних карток здобувачів - працівники деканату.</p>
+<p>7.10. У випадку сформованої і заповненої відомості в Електронному кампусі, паперовий варіант відомості екзаменатор підписує після її друку в деканаті.</p>
+<h3>Особливості оформлення відомостей з курсових проектів/робіт та практик</h3>
+<p>7.11. Відомості семестрового контролю з результатами захистів звітів з практик та захистів курсових проекті в/робіт, підписують всі члени комісії в рамках роботи якої відбувались захисти.</p>
+<p>7.12. Відомості з курсових проєктів/робіт в Електронному кампусі формуються на екзаменатора, який є членом комісії, організованої кафедрою для проведення захистів.</p>
+<p>7.13. Відомості з практик в Електронному кампусі формуються на осіб, відповідальних за проведення практики на кафедрах.</p>
+<h2>8. ПОРЯДОК ЛІКВІДАЦІЇ АКАДЕМІЧНОЇ ЗАБОРГОВАНОСТІ ТА ПЕРЕСКЛАДАННЯ СЕМЕСТРОВОГО КОНТРОЛЮ ЛІКВІДАЦІЯ АКАДЕМІЧНОЇ ЗАБОРГОВАНОСТІ</h2>
+<p>8.1. Здобувач, у якого за результатами семестрового контролю виникла академічна заборгованість, має право її ліквідувати відповідно до Положення про надання додаткових освітніх послуг здобувачам вищої освіти в КПІ ім. Ігоря Сікорського.</p>
+<p>8.2. Для ліквідації академічної заборгованості здобувачу надається не більше двох спроб з кожного заходу семестрового контролю.</p>
+<p>8.3. Для проведення контрольного заходу з ліквідації академічної заборгованості за рішенням кафедри може створюватись комісія.</p>
+<p>8.4. Ліквідація здобувачами академічної заборгованості здійснюється після завершення екзаменаційної сесії в терміни, що встановлюються окремими розпорядженнями по факультету/інституту або по Університету.</p>
+<p>8.5. Якщо здобувач, за невиконання умов допуску до семестрового контролю, отримав у відомості семестрового контролю запис «не допущений», то рішення щодо умов допуску до перескладання з метою ліквідації академічної заборгованості приймається на засіданні кафедри.</p>
+<p>8.6. Якщо здобувач виконав умови допуску до семестрового контролю, але за результатами семестрового контролю отримав оцінку «незадовільно», йому надається право ліквідувати академічну заборгованість в терміни, встановлені розпорядженням по Університету.</p>
+<p>8.7. Оцінка, отримана здобувачем у ході ліквідації академічної заборгованості, є остаточною.</p>
+<p>8.8. Ліквідація академічної заборгованості за зверненням здобувача та з дозволу випускової кафедри та кафедри, що здійснює викладання навчальних дисциплін, з яких виникла заборгованість, може переноситься в новий навчальний семестр як академічна різниця (з відповідним відображенням в індивідуальному навчальному плані здобувача).</p>
+<p>8.9. Для ліквідації академічної заборгованості з семестрового контролю або академічної різниці деканат формує додаткову відомість семестрового контролю (Додаток Б) або індивідуальну відомість семестрового контролю (Додаток В).</p>
+<p>8.10. У разі прийому академічної заборгованості комісією відповідну відомість підписують усі члени комісії.</p>
+<p>8.11. Паперова відомість видається екзаменатору в день проведення контрольного заходу з ліквідації академічної заборгованості/різниці. Доступ екзаменатору до додаткової (індивідуальної) відомості в Електронному кампусі відкривається в його особистому кабінеті в день проведення контрольного заходу.</p>
+<p>8.12. Датою блокування додаткових (індивідуальних) відомостей семестрового контролю в Електронному кампусі є дата, наступна за датою проведення контрольного заходу з ліквідації академічної заборгованості/різниці.</p>
+<p>8.13. Здобувач, який не ліквідував академічну заборгованість/різницю в установлені терміни, подається на відрахування з Університету як такий, що не виконав індивідуальний навчальний план.</p>
+<h3>Перескладання семестрового контролю</h3>
+<p>8.14. Можливість перескладання семестрового контролю, з метою підвищення позитивної оцінки з певної навчальної дисципліни, допускається не раніше наступного семестру після її вивчення і є додатковою освітньою послугою.</p>
+<p>8.15. Допускається перескладання (з метою підвищення позитивної оцінки) не більше трьох семестрових контролів за весь період навчання за певним рівнем вищої освіти.</p>
+<p>8.16. Дозвіл на перескладання дає декан факультету/директор інституту на якому навчається здобувач за погодженням із завідувачем кафедри, яка забезпечує викладання відповідної навчальної дисципліни, на основі заяви здобувача вищої освіти.</p>
+<p>8.17. Для проведення заходів семестрового контролю (з метою підвищення позитивної оцінки) створюється комісія з двох-трьох НПП кафедри, яка забезпечує викладання цієї навчальної дисципліни.</p>
+<h2>9. ПРИКІНЦЕВІ ПОЛОЖЕННЯ</h2>
+<p>9.1. Всі виконані здобувачами контрольні роботи (модульні, екзаменаційні і залікові), індивідуальні семестрові завдання, і рейтинг-листи навчальних груп зберігаються на кафедрах впродовж поточного та наступного навчального року.</p>
+<p>9.2. У випадку проведення контрольних заходів семестрового контролю з використанням інформаційних технологій віддаленого зв'язку, екзаменатору необхідно забезпечити надійну ідентифікацію здобувачів та вжити заходів для унеможливлення несанкціонованого використання допоміжних засобів під час відповіді на запитання/виконання завдання екзаменаційних білетів або завдань залікових контрольних робіт.</p>
+<p>9.3. У випадку не згоди здобувача з оцінкою за результатами контрольного заходу, він має право подати апеляцію у день оголошення результатів відповідного контролю на ім'я декана факультету/директора інституту за процедурою визначеною Положенням про апеляції в КПІ в КПІ ім. Ігоря Сікорського.</p>
+<p>9.4. Конфліктні ситуації які виникають до або під час проведення заходів семестрового контролю вирішуються відповідно до Положення про вирішення конфліктних ситуацій в КПІ ім. Ігоря Сікорського.</p>
+<p>ДОДАТОК А Форма основної відомості семестрового контролю<br />
+ДОДАТОК Б Форма додаткової відомості семестрового контролю<br />
+ДОДАТОК В Форма індивідуальної відомості семестрового контролю</p>
+</div>
+      
+      <div class="field field--name-taxonomy-vocabulary-4 field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/index.php/web-document" hreflang="UK">Нормативні документи</a></div>
+          </div>
+  
+      <div class="field field--name-taxonomy-vocabulary-3 field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/index.php/certification" hreflang="UK">Атестація</a></div>
+              <div class="field__item"><a href="/index.php/estimation" hreflang="UK">Оцінювання</a></div>
+              <div class="field__item"><a href="/index.php/semester" hreflang="UK">Семестр</a></div>
+              <div class="field__item"><a href="/index.php/control" hreflang="UK">Контроль</a></div>
+              <div class="field__item"><a href="/index.php/taxonomy/term/2638" hreflang="UK">Викладачам</a></div>
+              <div class="field__item"><a href="/index.php/taxonomy/term/2859" hreflang="UK">Студентам</a></div>
+          </div>
+  
+  </div>
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+          </section>
+        </main>
+                          <div id="sidebar-second" class="column sidebar">
+            <aside class="section" role="complementary">
+                <div class="region region-sidebar-second">
+    <div id="block-video" class="block block-block-content block-block-contentc4f4f375-1738-4f27-9dd2-f98c56910f6d">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><iframe width="100%" height="175" src="https://www.youtube.com/embed/UvvUBiO29_0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><p>
+<a href="https://www.sikorsky-distance.org/" target="_blank"><img src="/images/sikorsky-distance.jpg" width="100%" /></a></p>
+</div>
+      
+    </div>
+  </div>
+<nav role="navigation" aria-labelledby="block-golovnanavigaciya-2-menu" id="block-golovnanavigaciya-2" class="block block-menu navigation menu--main">
+      
+  <h2 id="block-golovnanavigaciya-2-menu">Освіта</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-golovnanavigaciya-2"></div>
+    <div class="menu-toggle-target" id="hide-block-golovnanavigaciya-2"></div>
+    <a class="menu-toggle" href="#show-block-golovnanavigaciya-2">Показати &mdash; Освіта</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-golovnanavigaciya-2">Приховати &mdash; Освіта</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/specialities" title="Перелік освітніх програм КПІ ім. Ігоря Сікорського" data-drupal-link-system-path="node/1167">Освітні програми</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/regulations" title="Положення про організацію освітнього процесу" data-drupal-link-system-path="node/107">Організація навчання</a>
+              </li>
+                <li class="menu-item">
+        <a href="/year" title="Графік навчального процесу в КПІ ім. Ігоря Сікорського на поточний навчальний рік" data-drupal-link-system-path="node/10918">Академічний календар</a>
+              </li>
+                <li class="menu-item">
+        <a href="/bologna" title="Болонський процес" data-drupal-link-system-path="node/187">Болонський процес</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://login.kpi.ua" title="Електронний кампус">Електронний кампус</a>
+              </li>
+                <li class="menu-item">
+        <a href="/certification" title="Проведення атестації студентів та семестрового контролю" data-drupal-link-system-path="taxonomy/term/145">Атестації студентів</a>
+              </li>
+                <li class="menu-item">
+        <a href="/monitoring" title="Комплексний моніторинг якості підготовки фахівців - Контроль та оцінка якості навчання" data-drupal-link-system-path="taxonomy/term/179">Комплексний моніторинг</a>
+              </li>
+                <li class="menu-item">
+        <a href="/education_department" data-drupal-link-system-path="taxonomy/term/15">Новини освіти</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+<div class="views-element-container block block-views block-views-blockcontent-recent-block-1" id="block-views-block-content-recent-block-1-2">
+  
+      <h2>Останні матеріали</h2>
+    
+      <div class="content">
+      <div><div class="view view-content-recent view-id-content_recent view-display-id-block_1 js-view-dom-id-fea4707796b9efd388ad7ebb45163a3eafd42ecd04ffc92326684ba89c5b403a">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/board-job" hreflang="UK">[до 18.03.2021] Оголошується конкурс на заміщення посад</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/node/18488" hreflang="UK">КБ «Південне» та КПІ: нові горизонти співпраці</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/2020-icd" hreflang="UK">Адаптувати передовий досвід університетів світу та виходити на лідерські позиції</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/2021-kp6" hreflang="UK">Київський політехнік, 2021, №6 (у .pdf форматі)</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/2021-02-15" hreflang="UK">Засідання ректорату КПІ ім. Ігоря Сікорського 15 лютого 2021 року</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/2021-kp5-tef" hreflang="UK">Євгеній Алексеїк. Молодий науковець з ТЕФ – учасник міжнародної космічної місії</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/vashchenko" hreflang="UK">Професор Костянтин Ілліч Ващенко: вчений, педагог, інженер-новатор. До 120-річчя від дня народження</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/node/18482" hreflang="UK">[18,25.02.2021] Вебінари від компанії Elsevier</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/books-info" hreflang="UK">Інформація про користування бібліотекою для першокурсників</a></span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/2021-kp5-xtf" hreflang="UK">Світлана Нагірняк. КПІ дає крила</a></span></div></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+          <div class="more-link"><a href="/index.php/front">Ще</a></div>
+
+      </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+            </aside>
+          </div>
+              </div>
+    </div>
+          <div class="featured-bottom">
+        <aside class="layout-container clearfix" role="complementary">
+            <div class="region region-featured-bottom-first">
+    <nav role="navigation" aria-labelledby="block-bartik-menu-menu-0-menu" id="block-bartik-menu-menu-0" class="block block-menu navigation menu--menu----------------0">
+      
+  <h2 id="block-bartik-menu-menu-0-menu">Для користувачів</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-bartik-menu-menu-0"></div>
+    <div class="menu-toggle-target" id="hide-block-bartik-menu-menu-0"></div>
+    <a class="menu-toggle" href="#show-block-bartik-menu-menu-0">Показати &mdash; Для користувачів</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-bartik-menu-menu-0">Приховати &mdash; Для користувачів</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/pupil" title="Інформація для школярів" data-drupal-link-system-path="node/7238">Школяру</a>
+              </li>
+                <li class="menu-item">
+        <a href="/application" data-drupal-link-system-path="node/2426">Вступнику</a>
+              </li>
+                <li class="menu-item">
+        <a href="/freshmen" data-drupal-link-system-path="node/1640">Першокурснику</a>
+              </li>
+                <li class="menu-item">
+        <a href="/4students" title="Інформація для студентів" data-drupal-link-system-path="node/7285">Студенту</a>
+              </li>
+                <li class="menu-item">
+        <a href="/alumnus" data-drupal-link-system-path="node/7239">Випускнику</a>
+              </li>
+                <li class="menu-item">
+        <a href="/tutor" data-drupal-link-system-path="node/7127">Співробітнику</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+            <div class="region region-featured-bottom-second">
+    <nav role="navigation" aria-labelledby="block-informaciyniresursi-menu" id="block-informaciyniresursi" class="block block-menu navigation menu--secondary-menu">
+      
+  <h2 id="block-informaciyniresursi-menu">Інформаційні ресурси</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-informaciyniresursi"></div>
+    <div class="menu-toggle-target" id="hide-block-informaciyniresursi"></div>
+    <a class="menu-toggle" href="#show-block-informaciyniresursi">Показати &mdash; Інформаційні ресурси</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-informaciyniresursi">Приховати &mdash; Інформаційні ресурси</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/index.php/weblinks" title="Сайти мережі КПІ" data-drupal-link-system-path="node/7921">Сайти мережі КПІ</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/journals" title="Наукові видання НТУУ КПІ ім.Ігоря Сікорського" data-drupal-link-system-path="term/301">Наукові видання</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/u_conferences" title="Наукові конференції КПІ ім.Ігоря Сікорського" data-drupal-link-system-path="term/147">Наукові конференції</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://report.kpi.ua/" title=" Завершені науково-дослідні роботи КПІ ім. Ігоря Сікорського">Науково-дослідні роботи</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://ela.kpi.ua/" title="Електронний архів КПІ ім.Ігоря Сікорського">Електронний архів</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/kp" title="Щотижнева газета &quot;Київський політехнік&quot;" data-drupal-link-system-path="taxonomy/term/148">Газета &quot;Київський політехнік&quot;</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+            <div class="region region-featured-bottom-third">
+    <nav role="navigation" aria-labelledby="block-mozhlivostiosviti-2-menu" id="block-mozhlivostiosviti-2" class="block block-menu navigation menu--menu-web">
+      
+  <h2 id="block-mozhlivostiosviti-2-menu">Можливості освіти</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-mozhlivostiosviti-2"></div>
+    <div class="menu-toggle-target" id="hide-block-mozhlivostiosviti-2"></div>
+    <a class="menu-toggle" href="#show-block-mozhlivostiosviti-2">Показати &mdash; Можливості освіти</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-mozhlivostiosviti-2">Приховати &mdash; Можливості освіти</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="https://eqmi.kpi.ua/">Доуніверситетська підготовка</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.sikorsky-distance.org/" title="Дистанційне навчання з використанням інформаційних технологій в КПІ">Дистанційна освіта</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://mobilnist.kpi.ua/" title="Відділ академічної мобільності КПІ">Академічна мобільність</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://ipo.kpi.ua/druga-vishha" title="Друга і наступна вища освіта в КПІ">Перепідготовка (друга вища освіта)</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://ipo.kpi.ua/povyshenie_kvalif" title="Підвищення кваліфікації в КПІ">Підвищення кваліфікації</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://istudent.kpi.ua/" title="Центр міжнародної освіти">Центр міжнародної освіти</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+        </aside>
+      </div>
+        <footer class="site-footer">
+      <div class="layout-container">
+                  <div class="site-footer__top clearfix">
+              <div class="region region-footer-first">
+    <nav role="navigation" aria-labelledby="block-organizacii-2-menu" id="block-organizacii-2" class="block block-menu navigation menu--organizacii">
+      
+  <h2 id="block-organizacii-2-menu">Організації</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-organizacii-2"></div>
+    <div class="menu-toggle-target" id="hide-block-organizacii-2"></div>
+    <a class="menu-toggle" href="#show-block-organizacii-2">Показати &mdash; Організації</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-organizacii-2">Приховати &mdash; Організації</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="http://rabota.kpi.ua/" title="Вакансії для студентів і випускників КПІ, пропозиції для працедавців">Центр розвитку кар&#039;єри</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://museum.kpi.ua/" title="Державний політехнічний музей ">Державний політехнічний музей</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://kpi-telekom.kpi.ua/" title="НТО “КПІ-Телеком”">НТО “КПІ-Телеком”</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://uajc.kpi.ua/" title="Українсько-Японський центр КПІ ім. Ігоря Сікорського">Українсько-Японський Центр</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://ckm.kpi.ua/" title="Центр культури та мистецтв">Центр культури та мистецтв</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://sport.kpi.ua/" title="ентр фізичного виховання та спорту КПІ ім. Ігоря Сікорського Центр фізичного виховання та спорту КПІ ім. Ігоря Сікорського">Спорткомплекс КПІ</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+              <div class="region region-footer-second">
+    <nav role="navigation" aria-labelledby="block-struktura-menu" id="block-struktura" class="block block-menu navigation menu--menu-structure">
+      
+  <h2 id="block-struktura-menu">Структура</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-struktura"></div>
+    <div class="menu-toggle-target" id="hide-block-struktura"></div>
+    <a class="menu-toggle" href="#show-block-struktura">Показати &mdash; Структура</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-struktura">Приховати &mdash; Структура</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/index.php/rectorate" data-drupal-link-system-path="taxonomy/term/354">Ректорат</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/office" title="Департаменти КПІ ім.Ігоря Сікорського" data-drupal-link-system-path="term/8">Департаменти</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/institutes" title="Інститути КПІ" data-drupal-link-system-path="term/275">Інститути</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/faculties" data-drupal-link-system-path="term/274">Факультети</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/chairs" title="Кафедри КПІ ім.Ігоря Сікорського" data-drupal-link-system-path="term/299">Кафедри</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/subdivisions" data-drupal-link-system-path="term/25">Університетські підрозділи</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+              <div class="region region-footer-third">
+    <nav role="navigation" aria-labelledby="block-proekti-menu" id="block-proekti" class="block block-menu navigation menu--menu---------------">
+      
+  <h2 id="block-proekti-menu">Проекти</h2>
+  
+
+      <div class="content">
+        <div class="menu-toggle-target menu-toggle-target-show" id="show-block-proekti"></div>
+    <div class="menu-toggle-target" id="hide-block-proekti"></div>
+    <a class="menu-toggle" href="#show-block-proekti">Показати &mdash; Проекти</a>
+    <a class="menu-toggle menu-toggle--hide" href="#hide-block-proekti">Приховати &mdash; Проекти</a>
+    
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/index.php/sikorsky-challenge" title="Sikorsky Challenge" data-drupal-link-system-path="taxonomy/term/348">Sikorsky Challenge</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/researchers" title="Результати конкурсів «Викладач-дослідник», «Молодий викладач-дослідник» та умови участі" data-drupal-link-system-path="taxonomy/term/161">Викладачі-дослідники</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/academic-integrity" title="Академічна доброчесність в університеті - нормативно-правові та регламентуючі документи" data-drupal-link-system-path="node/18066">Академічна доброчесність</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/accreditation" title="Акредитація" data-drupal-link-system-path="taxonomy/term/2277">Акредитація</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://pk.kpi.ua/specialities/" title="Спеціальності та освітні програми (спеціалізації) ">Спеціальності та освітні програми</a>
+              </li>
+                <li class="menu-item">
+        <a href="/index.php/covid-19" title="Коронавірусне захворювання (COVID-19)" data-drupal-link-system-path="taxonomy/term/3062">Коронавірус</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</nav>
+
+  </div>
+
+              <div class="region region-footer-fourth">
+    <div class="views-element-container block block-views block-views-blockslayder-baneri-block-1" id="block-views-block-slayder-baneri-block-1">
+  
+    
+      <div class="content">
+      <div><div class="view view-slayder-baneri view-id-slayder_baneri view-display-id-block_1 js-view-dom-id-86121789ce22a3efb063bb66f48bd96c760b16620603b6e98bad1f690fa50f19">
+  
+    
+      
+      <div class="view-content">
+        <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_slayder_baneri-block_1" class="views_slideshow_cycle_main views_slideshow_main">
+    <div id="views_slideshow_cycle_teaser_section_slayder_baneri-block_1"  class="views_slideshow_cycle_teaser_section">
+     <div id="views_slideshow_cycle_div_slayder_baneri-block_1_0"  class="views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+      <div  class="views-row views-row-0 views-row-odd views-row-first">
+  <div class="views-field views-field-node-image"><div class="field-content"><a href="http://www.solor.gov.ua/">  <img src="/files/images-page/solor_0.jpg" width="429" height="206" alt="Солом&#039;янська РДА в місті Києві" title="Солом&#039;янська РДА в місті Києві" typeof="foaf:Image" />
+
+</a></div></div>
+</div>
+
+  </div>
+
+     <div id="views_slideshow_cycle_div_slayder_baneri-block_1_1"  class="views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+      <div  class="views-row views-row-1 views-row-even">
+  <div class="views-field views-field-node-image"><div class="field-content"><a href="http://vnz.org.ua">  <img src="/files/images-page/vnz.jpg" width="429" height="206" alt="Портал &quot;Вища освіта&quot;" title="Портал &quot;Вища освіта&quot;" typeof="foaf:Image" />
+
+</a></div></div>
+</div>
+
+  </div>
+
+     <div id="views_slideshow_cycle_div_slayder_baneri-block_1_2"  class="views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+      <div  class="views-row views-row-2 views-row-odd">
+  <div class="views-field views-field-node-image"><div class="field-content"></div></div>
+</div>
+
+  </div>
+
+     <div id="views_slideshow_cycle_div_slayder_baneri-block_1_3"  class="views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+      <div  class="views-row views-row-3 views-row-even">
+  <div class="views-field views-field-node-image"><div class="field-content"><a href="https://mon.gov.ua/ua">  <img src="/files/images-page/mon.jpg" width="429" height="206" alt="Банер МОН України" title="Банер МОН України" typeof="foaf:Image" />
+
+</a></div></div>
+</div>
+
+  </div>
+
+     <div id="views_slideshow_cycle_div_slayder_baneri-block_1_4"  class="views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+      <div  class="views-row views-row-4 views-row-odd views-row-last">
+  <div class="views-field views-field-node-image"><div class="field-content"><a href="https://council.science/">  <img src="/files/images-page/isc_0.png" width="429" height="206" alt="Міжнародна наукова рада (ISC)" title="Міжнародна наукова рада (ISC)" typeof="foaf:Image" />
+
+</a></div></div>
+</div>
+
+  </div>
+
+  </div>
+
+</div>
+
+
+        </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+<div id="block-banner" class="block block-block-content block-block-contenta98fb2d0-8143-4d29-8c1f-f091bfc37670">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="https://prozorro.gov.ua/plan/search?query=02070921"><img src="/files/images-page/prozorro.png" width="100%" alt="Плани закупівель КПІ ім.Ігоря Сікорського" /></a></p>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+          </div>
+                          <div class="site-footer__bottom">
+              <div class="region region-footer-fifth1">
+    <div id="block-footermessage" class="block block-block-content block-block-content973ce366-672d-4b32-b77f-fd7f5a90f384">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><span itemscope="" itemtype="http://schema.org/EducationalOrganization"><span itemprop="name"><a href="/contact">Національний технічний університет України "Київський політехнічний інститут імені Ігоря Сікорського"</a></span><br /><br />
+1998-2021 ©  <a href="/location">Мапа</a> | <a href="/information" alt="Інформація, яка підлягає обов'язковому оприлюдненню">Обов'язкова інформація</a> | <a href="/site">Про сайт</a> | <a href="/sitemap">Карта сайту</a><br /><span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">Адреса: <span itemprop="addressRegion">Україна</span>,  <span itemprop="postalCode">03056</span>, м.<span itemprop="addressLocality">Київ</span>-56, <span itemprop="streetAddress">проспект Перемоги, 37</span>, <span itemprop="email">mail[at]kpi.ua</span>, <span itemprop="email">webmaster[at]kpi.ua</span></span><br /><br />
+Довiдка телефонної станцiї: <span itemprop="telephone">+380 44 204 9494</span>, телефон чергової частини Департаменту безпеки: <span itemprop="telephone">204 2071</span><br /></span></p>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+			  <div class="region region-footer-fifth2">
+    <div id="block-ikonkisocmerezh-2" class="block block-block-content block-block-content86872b96-d29d-4cd9-8cd3-19f903736cc9">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="socials"><a class="box rss" href="/rss.xml" title="Стрічка нових матеріалів сайту КПІ"></a><a class="box fb" href="https://www.facebook.com/ntuu.kpi/" title="Офіційна сторінка КПІ в Facebook"></a><a class="box tw" href="https://twitter.com/kpiua" title="Офіційна стрічка КПІ в Twitter"></a><a class="box yt" href="https://www.youtube.com/kpiua" title="Офіційний youtube канал КПІ"></a><a class="box link" href="https://www.linkedin.com/company/kpi.ua" title="Офіційна сторінка КПІ в Linkedin"></a><a class="box in" href="https://www.instagram.com/kpi.ua/" title="Офіційний Instagram КПІ"></a><a class="box te" href="/telegram" title="Офіційні канали КПІ"></a></div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+          </div>
+              </div>
+    </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/index.php\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/3277","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"UK"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"statistics":{"data":{"nid":"3277"},"url":"\/core\/modules\/statistics\/statistics.php"},"googleCSE":{"cx":"015487142983591739683:agvwvdwgrwe","language":"UK","resultsWidth":0,"domain":"","isDefault":true},"ajaxTrustedUrl":{"\/search\/google":true},"superfish":{"superfish-main":{"id":"superfish-main","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast","autoArrows":false,"dropShadows":false},"plugins":{"smallscreen":{"mode":"window_width","expandText":"\u0420\u043e\u0437\u043a\u0440\u0438\u0442\u0438","collapseText":"\u0417\u0433\u043e\u0440\u043d\u0443\u0442\u0438","title":"Main navigation"},"supposition":true,"supersubs":true}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_slayder_baneri-block_1":{"num_divs":5,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"slayder_baneri-block_1","effect":"fade","transition_advanced":1,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"items_per_slide_first":0,"items_per_slide_first_number":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}","advanced_options_choices":0,"advanced_options_entry":""}},"viewsSlideshow":{"slayder_baneri-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"user":{"uid":0,"permissionsHash":"1a6674de25f026afc0554251130a33bae7c402f3cb8b767dcb0764e3c1369ef2"}}</script>
+<script src="/files/js/js_r5InTDrhyKpQu2uZTJccAQO6I5Iq9kf84VE2Kik7pVo.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://kpi.ua/">
+  <channel>
+    <title>Вступ в КПІ ім.Ігоря Сікорського</title>
+    <link>https://kpi.ua/</link>
+    <description/>
+    <language>UK</language>
+    
+    <item>
+  <title>Вступ на 1 курс (за сертифікатами ЗНО)</title>
+  <link>https://kpi.ua/applicant</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Вступ на 1 курс (за сертифікатами ЗНО)&lt;/span&gt;
+
+            &lt;div class="field field--name-node-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://kpi.ua/applicant" hreflang="UK"&gt;&lt;img src="https://kpi.ua/files/styles/thumbnail/public/n3922.jpg?itok=ye6q4C6U" width="100" height="100" alt="Інформація для вступників на перший курс" title="Інформація для вступників на перший курс" typeof="foaf:Image" class="image-style-thumbnail" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://kpi.ua/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;ntuu.kpi&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;чт, 07/12/2018 - 12:00&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Бакалавр - це освітній ступінь, що здобувається на першому рівні вищої освіти та присуджується закладом вищої освіти у результаті успішного виконання здобувачем вищої освіти освітньо-професійної програми, обсяг якої становить 180-240 кредитів ЄКТС.&lt;/p&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-field-site field--type-link field--label-hidden field__item"&gt;&lt;a href="https://pk.kpi.ua/entry-1-course/"&gt;https://pk.kpi.ua/entry-1-course/&lt;/a&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Thu, 12 Jul 2018 09:00:00 +0000</pubDate>
+    <dc:creator>ntuu.kpi</dc:creator>
+    <guid isPermaLink="false">3922 at https://kpi.ua</guid>
+    </item>
+<item>
+  <title>Вступ за дипломом молодшого спеціаліста</title>
+  <link>https://kpi.ua/entry-ms</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Вступ за дипломом молодшого спеціаліста&lt;/span&gt;
+
+            &lt;div class="field field--name-node-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://kpi.ua/entry-ms" hreflang="UK"&gt;&lt;img src="https://kpi.ua/files/styles/thumbnail/public/entry-1-course-ms.jpg?itok=pUTiWfMc" width="100" height="100" alt="Вступ за дипломом молодшого спеціаліста" title="Вступ за дипломом молодшого спеціаліста" typeof="foaf:Image" class="image-style-thumbnail" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://kpi.ua/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;ntuu.kpi&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;нд, 07/01/2018 - 00:36&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Випускники коледжів чи технікумів, які одержали диплом молодшого спеціаліста, мають право вступати на основі свого диплома до Національного технічного університету України «Київський політехнічний інститут імені Ігоря Сікорського» на перший курс, але навчатись за скороченою програмою – 3 роки, за&lt;/p&gt;&lt;/div&gt;
+      
+            &lt;div class="field field--name-field-site field--type-link field--label-hidden field__item"&gt;&lt;a href="https://pk.kpi.ua/entry-1-course-ms/"&gt;https://pk.kpi.ua/entry-1-course-ms/&lt;/a&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Sat, 30 Jun 2018 21:36:04 +0000</pubDate>
+    <dc:creator>ntuu.kpi</dc:creator>
+    <guid isPermaLink="false">18155 at https://kpi.ua</guid>
+    </item>
+<item>
+  <title>Вступ в магістратуру</title>
+  <link>https://kpi.ua/master</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Вступ в магістратуру&lt;/span&gt;
+
+            &lt;div class="field field--name-node-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://kpi.ua/master" hreflang="UK"&gt;&lt;img src="https://kpi.ua/files/styles/thumbnail/public/n7277.jpg?itok=xN5FvKyY" width="100" height="100" alt="https://pk.kpi.ua/entry-5-course/" title="https://pk.kpi.ua/entry-5-course/" typeof="foaf:Image" class="image-style-thumbnail" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://kpi.ua/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;ntuu.kpi&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;чт, 09/10/2009 - 12:00&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Магістр - це освітній ступінь, що здобувається на другому рівні вищої освіти та присуджується закладом вищої освітиу результаті успішного виконання здобувачем вищої освіти відповідної освітньої програми. Ступінь магістра здобувається за освітньо-професійною або за освітньо-науковою програмою.&lt;/p&gt;&lt;/div&gt;
+      
+            &lt;div class="field field--name-field-site field--type-link field--label-hidden field__item"&gt;&lt;a href="https://pk.kpi.ua/entry-5-course/"&gt;https://pk.kpi.ua/entry-5-course/&lt;/a&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Thu, 10 Sep 2009 09:00:00 +0000</pubDate>
+    <dc:creator>ntuu.kpi</dc:creator>
+    <guid isPermaLink="false">7277 at https://kpi.ua</guid>
+    </item>
+<item>
+  <title>Інформація для здобувачів ступеня доктора філософії та доктора наук</title>
+  <link>https://kpi.ua/phd</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Інформація для здобувачів ступеня доктора філософії та доктора наук&lt;/span&gt;
+
+            &lt;div class="field field--name-node-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://kpi.ua/phd" hreflang="UK"&gt;&lt;img src="https://kpi.ua/files/styles/thumbnail/public/n7278.jpg?itok=FJ6RntCG" width="100" height="100" alt="http://aspirantura.kpi.ua/" title="http://aspirantura.kpi.ua/" typeof="foaf:Image" class="image-style-thumbnail" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://kpi.ua/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;ntuu.kpi&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;чт, 09/10/2009 - 11:00&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Доктор філософії - це освітній і водночас перший науковий ступінь, що здобувається на третьому рівні вищої освіти на основі ступеня магістра. Ступінь доктора філософії присуджується спеціалізованою вченою радою ЗВО в результаті успішного виконання здобувачем вищої освіти відповідної освітньо-наукової програми та публічного захисту дисертації у спеціалізованій вченій раді.&lt;/p&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-field-site field--type-link field--label-hidden field__item"&gt;&lt;a href="http://aspirantura.kpi.ua/"&gt;http://aspirantura.kpi.ua/&lt;/a&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Thu, 10 Sep 2009 08:00:00 +0000</pubDate>
+    <dc:creator>ntuu.kpi</dc:creator>
+    <guid isPermaLink="false">7278 at https://kpi.ua</guid>
+    </item>
+<item>
+  <title>Післядипломна освіта</title>
+  <link>https://kpi.ua/training</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Післядипломна освіта&lt;/span&gt;
+
+            &lt;div class="field field--name-node-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://kpi.ua/training" hreflang="UK"&gt;&lt;img src="https://kpi.ua/files/styles/thumbnail/public/n329.jpg?itok=aEjJSRLR" width="100" height="100" alt="http://ipo.kpi.ua/" title="http://ipo.kpi.ua/" typeof="foaf:Image" class="image-style-thumbnail" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://kpi.ua/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;ntuu.kpi&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;сб, 08/01/2009 - 13:00&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Другу освіту можуть отримувати громадяни України, які здобули вищу освіту (базову або повну) та мають бажання отримати кваліфікацію фахівця з іншої спеціальності для розширення своїх кар’єрних можливостей.&lt;/p&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-field-site field--type-link field--label-hidden field__item"&gt;&lt;a href="http://ipo.kpi.ua/"&gt;http://ipo.kpi.ua/&lt;/a&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Sat, 01 Aug 2009 10:00:00 +0000</pubDate>
+    <dc:creator>ntuu.kpi</dc:creator>
+    <guid isPermaLink="false">329 at https://kpi.ua</guid>
+    </item>
+<item>
+  <title>Інформація для вступників - іноземних громадян</title>
+  <link>https://kpi.ua/foreigners</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Інформація для вступників - іноземних громадян&lt;/span&gt;
+
+            &lt;div class="field field--name-node-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://kpi.ua/foreigners" hreflang="UK"&gt;&lt;img src="https://kpi.ua/files/styles/thumbnail/public/banner_web_CIE_705x400.png?itok=jOWFNrE1" width="100" height="100" alt="https://istudent.kpi.ua/en/" title="https://istudent.kpi.ua/en/" typeof="foaf:Image" class="image-style-thumbnail" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://kpi.ua/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;ntuu.kpi&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;ср, 07/01/2009 - 13:00&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Організацією навчання, проживання, медичного обслуговування, громадського і спортивного життя іноземних громадян в Національному технічному університеті України «Київський політехнічний інститут імені Ігоря Сікорського» опікується Центр міжнародної освіти&lt;/p&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-field-site field--type-link field--label-hidden field__item"&gt;&lt;a href="https://istudent.kpi.ua/"&gt;https://istudent.kpi.ua/&lt;/a&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Wed, 01 Jul 2009 10:00:00 +0000</pubDate>
+    <dc:creator>ntuu.kpi</dc:creator>
+    <guid isPermaLink="false">164 at https://kpi.ua</guid>
+    </item>
+
+  </channel>
+</rss>
