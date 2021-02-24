@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo chown $USER:$USER . -R
-git pull
+git reset --hard HEAD && git pull
 unzip -o assets.zip
 unzip -o site_data.zip
 unzip -o wp_db_data.zip
