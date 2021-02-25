@@ -3,8 +3,12 @@
 ![N|Solid](sast-tools/cve_scanner/pictures/scanner.gif)
 
 Testing lab is a docker based network simulator. It consists of 4 internal subnets with WAN access via gateway and contains routers, workstations and internal services.
+<<<<<<< HEAD
 
+=======
+>>>>>>> ade0723e024d50f98e301ca0640237dedd30095e
 **Network topology:**
+
 ![N|Solid](netscheme.png)
 Available nodes:
 - *corp-gateway*: gateway between infrastructure and WAN. There is reverse ssh running to allow access to *client_pc1* node.
@@ -19,11 +23,15 @@ Available nodes:
 
 # Deployment
 - Download and install Workstation Player: https://www.vmware.com/uk/products/workstation-player/workstation-player-evaluation.html
-- Download and deploy xubuntu vmware image: https://www.linuxvmimages.com/images/xubuntu-2004/ (Username:Xubuntu, password:xubuntu). You may try use your own distribution.
+- Download and deploy xubuntu vmware image: https://www.linuxvmimages.com/images/xubuntu-2004/ (Username:Xubuntu, password:xubuntu). You may try to use your own distribution.
 - Install git:
     ```sh
+<<<<<<< HEAD
     sudo apt update
     sudo apt install -y git
+=======
+    sudo apt update ; sudo apt install -y git
+>>>>>>> ade0723e024d50f98e301ca0640237dedd30095e
     ```
 - Clone this repo:
     ```sh
@@ -48,7 +56,11 @@ Available nodes:
     ```
 - From *client_pc1* you can connect to *https-portal*:
     ```sh
+<<<<<<< HEAD
     ssh root@172.11.15.71 # password: P@ssw0rd
+=======
+    ssh root@172 .11.15.71 # password: P@ssw0rd
+>>>>>>> ade0723e024d50f98e301ca0640237dedd30095e
     ```
 
 # TODO
