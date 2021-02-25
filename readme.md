@@ -1,7 +1,5 @@
 # Computer networks testing lab
 
-![N|Solid](sast-tools/cve_scanner/pictures/scanner.gif)
-
 Testing lab is a docker based network simulator. It consists of 4 internal subnets with WAN access via gateway and contains routers, workstations and internal services.
 
 **Network topology:**
@@ -25,7 +23,6 @@ Available nodes:
     ```sh
     sudo apt update
     sudo apt install -y git
-    sudo apt update ; sudo apt install -y git
     ```
 - Clone this repo:
     ```sh
@@ -51,7 +48,6 @@ Available nodes:
 - From *client_pc1* you can connect to *https-portal*:
     ```sh
     ssh root@172.11.15.71 # password: P@ssw0rd
-    ssh root@172 .11.15.71 # password: P@ssw0rd
     ```
 
 # TODO
