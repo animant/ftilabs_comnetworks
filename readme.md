@@ -55,3 +55,5 @@ Available nodes:
 - deploy DHCP server
 - implement dynamic IP assignment
 - add services with different types of authentications (basic, digest, ntlm, kerberos...)
+- random GET,POST,OPTIONS,... HTTP requests in client_emulator
+- IPsec

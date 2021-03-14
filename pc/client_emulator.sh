@@ -29,6 +29,7 @@ case $mode in
         cd /tmp
         while true ; do
             sleep 5
+            wget --spider --post-file=xmlsamples/2 $target -w 5 --random-wait -r &
             wget --spider $target -w 5 --random-wait -r
         done &
     ;;
