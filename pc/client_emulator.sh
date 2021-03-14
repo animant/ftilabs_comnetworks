@@ -31,5 +31,9 @@ case $mode in
             sleep 5
             wget --spider $target -w 5 --random-wait -r
         done &
+        while true ; do
+            sleep 5
+            wget --spider --post-file=/root/xmlsample $target -w 5 --random-wait -r
+        done &
     ;;
 esac
