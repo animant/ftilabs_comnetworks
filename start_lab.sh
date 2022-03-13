@@ -14,6 +14,6 @@ cd ..
 sudo chown $USER:$USER . -R
 
 docker-compose up -d --build
-
+docker exec DNS /etc/init.d/bind9 start
 echo ''
 echo -e "\e[33mCURRENT INFRASTRUCTURE VERSION: \e[93m`git tag|tail -1`\e[0m"
