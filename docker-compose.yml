@@ -66,6 +66,7 @@ services:
   client_pc1:
     container_name: client_pc1
     build: pc
+    dns: 172.11.15.110
     #ports:
         #- "8022:22"
     command: >
@@ -94,6 +95,7 @@ services:
   client_pc2:
     container_name: client_pc2
     build: pc
+    dns: 172.11.15.110
     command: >
         sh -c 'sh /root/configure.sh 172.16.238.1 172.16.238.22 &&
         sh /root/client_emulator.sh ftpp 172.11.15.53 &&
@@ -111,6 +113,7 @@ services:
   client_pc3:
     container_name: client_pc3
     build: pc
+    dns: 172.11.15.110
     command: >
         sh -c 'sh /root/configure.sh 172.24.118.1 172.24.118.22 &&
         sh /root/client_emulator.sh ftpg 172.11.15.53 &&
@@ -125,6 +128,7 @@ services:
   client_pc4:
     container_name: client_pc4
     build: pc
+    dns: 172.11.15.110
     command: >
         sh -c "sh /root/configure.sh 172.24.118.1 172.24.118.22 &&
         sh /root/client_emulator.sh wp 172.11.15.71 &&
@@ -139,6 +143,7 @@ services:
 # Backend services
   ftp_server:
     container_name: ftp_server
+    dns: 172.11.15.110
     image: delfer/alpine-ftp-server
     ports:
         - "21:21"
@@ -156,6 +161,7 @@ services:
   http_server:
     container_name: http_server
     image: httpd:2.4
+    dns: 172.11.15.110
     volumes:
       - ./site_data/kpi.ua/:/usr/local/apache2/htdocs/
     networks:
@@ -167,6 +173,7 @@ services:
 
   https-portal:
     build: portal_patched
+    dns: 172.11.15.110
     ports:
       - '80:80'
       - '443:443'
@@ -213,6 +220,44 @@ services:
       WORDPRESS_DB_PASSWORD: wordpress
       WORDPRESS_DB_NAME: wordpress
 
+# DNS server configuraition
+  dns-server:
+    depends_on:
+      - corp_gateway
+    build: dns-server
+    container_name: DNS
+    restart: on-failure
+    volumes:
+      - ./dns-server/named.conf.options:/etc/bind/named.conf.options
+      - ./dns-server/named.conf.local:/etc/bind/named.conf.local
+      - ./dns-server/db.ftilabs.com:/etc/bind/zones/db.ftilabs.com
+    networks:
+      default:
+      gw_net:
+        ipv4_address: 172.11.15.110
+
+
+# VPN(IPsec) server configuration 
+  vpn-server:
+    depends_on:
+      - dns-server
+    image: hwdsl2/ipsec-vpn-server
+    container_name: VPN
+    dns: 172.11.15.110
+    ports:
+      - '500:500'
+      - '4500:4500'
+    privileged: true
+    restart: on-failure
+    volumes:
+      - /lib/modules/:/lib/modules:ro
+    env_file:
+      - vpn.env
+    networks:
+      vpn_net:
+        ipv4_address: 192.168.0.55
+      gw_net:
+        ipv4_address: 172.11.15.115
 
 networks:
     icorp1_net:
@@ -241,4 +286,9 @@ networks:
             config:
                 - subnet: 10.10.15.0/24
 
-
+    vpn_net:
+        driver: macvlan
+        ipam:
+            driver: default
+            config:
+                - subnet: 192.168.0.0/24
