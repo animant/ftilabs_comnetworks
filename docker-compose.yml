@@ -220,12 +220,17 @@ services:
       WORDPRESS_DB_PASSWORD: wordpress
       WORDPRESS_DB_NAME: wordpress
 
+# DNS server configuraition
   dns-server:
     depends_on:
       - corp_gateway
     build: dns-server
     container_name: DNS
     restart: on-failure
+    volumes:
+      - ./dns-server/named.conf.options:/etc/bind/named.conf.options
+      - ./dns-server/named.conf.local:/etc/bind/named.conf.local
+      - ./dns-server/db.ftilabs.com:/etc/bind/zones/db.ftilabs.com
     networks:
       default:
       gw_net:
