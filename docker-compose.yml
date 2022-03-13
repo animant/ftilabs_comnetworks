@@ -236,6 +236,29 @@ services:
       gw_net:
         ipv4_address: 172.11.15.110
 
+
+# VPN(IPsec) server configuration 
+  vpn-server:
+    depends_on:
+      - dns-server
+    image: hwdsl2/ipsec-vpn-server
+    container_name: VPN
+    dns: 172.11.15.110
+    ports:
+      - '500:500'
+      - '4500:4500'
+    privileged: true
+    restart: on-failure
+    volumes:
+      - /lib/modules/:/lib/modules:ro
+    env_file:
+      - vpn.env
+    networks:
+      vpn_net:
+        ipv4_address: 192.168.0.55
+      gw_net:
+        ipv4_address: 172.11.15.115
+
 networks:
     icorp1_net:
         driver: macvlan
@@ -263,4 +286,9 @@ networks:
             config:
                 - subnet: 10.10.15.0/24
 
-
+    vpn_net:
+        driver: macvlan
+        ipam:
+            driver: default
+            config:
+                - subnet: 192.168.0.0/24

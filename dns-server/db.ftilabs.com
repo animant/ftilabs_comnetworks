@@ -18,4 +18,5 @@ host3.ftilabs.com.        IN      A      172.24.118.15
 host4.ftilabs.com.        IN      A      172.24.118.16
 ftp.ftilabs.com.          IN      A      172.11.15.53
 http.ftilabs.com.         IN      A      172.11.15.61
-https.ftilabs.com.        IN      A      172.11.15.71 
+https.ftilabs.com.        IN      A      172.11.15.71
+vpn.ftilabs.com.          IN      A      172.11.15.115
